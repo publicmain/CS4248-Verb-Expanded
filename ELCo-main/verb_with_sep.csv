@@ -1,0 +1,1207 @@
+sent1,sent2,label,strategy
+This is alarm_clock [EM] sun [EM] sleeping_face.,wake up early,1,1
+This is sunrise [EM] seedling [EM] flexed_biceps.,wake up early,1,2
+That is stapler [PA] paperwork_on_desk donut scribbler.,wake up early,0,3
+That is hammer [EM] hammer wrench screw.,wake up early,0,4
+This is 1st_place_medal [EM] sunrise [EM] person_in_lotus_position.,wake up early,1,2
+This is person_lying_in_bed [EM] arrow_right [EM] sun.,wake up early,1,1
+That is barking_dog [AI] coding papers keyboard.,wake up early,0,3
+This is alarm_clock [EM] sun_with_face [EM] walking.,wake up early,1,1
+This is egg [EM] bacon [EM] coffee [EM] yum.,eat breakfast,1,1
+This is sun [EM] muscle [EM] zap.,eat breakfast,1,2
+This is bread [EM] cheese [EM] apple [EM] coffee [EM] alarm_clock.,eat breakfast,1,3
+This is pancakes [EM] pancakes [EM] yum.,eat breakfast,1,4
+That is house_with_garden [EM] evergreen shady home.,eat breakfast,0,1
+This is seedling [EM] sun [EM] brain.,eat breakfast,1,2
+This is tangerine [EM] egg [EM] bacon [EM] coffee [EM] house.,eat breakfast,1,3
+This is chair [EM] chair [EM] chair [EM] piano.,eat breakfast,0,4
+This is coffee [EM] yum [EM] drooling_face.,drink coffee,1,1
+This is grandma [EM] knit [EM] sweater.,drink coffee,0,2
+That is music [EM] softly weeping.,drink coffee,0,3
+This is music [EM] music [EM] healing.,drink coffee,0,4
+This is trouble [EM] trouble.,drink coffee,0,5
+This is zap [EM] sun [EM] coffee.,drink coffee,1,2
+This is coffee [EM] book [EM] computer.,drink coffee,1,3
+This is silence [EM] burying_head [EM] stormy.,drink coffee,0,1
+This is shower [EM] soap [EM] person_taking_bath.,take a shower,1,1
+This is droplet [EM] sparkles [EM] relieved.,take a shower,1,2
+This is shower [EM] bathtub [EM] thermometer [EM] relieved.,take a shower,1,3
+This is flower [EM] flower [EM] flower.,take a shower,0,4
+This is shower [EM] droplet [EM] raising_hand.,take a shower,1,1
+That is keyboard_arrow_down [US] devil grimaces.,take a shower,0,2
+This is bathtub [EM] soap [EM] lotion_bottle [EM] person_taking_bath.,take a shower,1,3
+This is toothbrush [EM] tooth [EM] sparkles.,brush teeth,1,1
+This is airplane [EM] [ID] [EM] engine [EM] roaring_thunder [EM] shocked_face.,brush teeth,0,3
+This is shield [EM] tooth [EM] angel.,brush teeth,1,2
+This is toothbrush [EM] toothbrush [EM] tooth.,brush teeth,1,4
+This is toothbrush [EM] soap [EM] tooth.,brush teeth,1,1
+This is alarm_clock [EM] toothbrush [EM] tooth [EM] thumbs_up.,brush teeth,1,3
+This is gem [EM] tooth [EM] flexed_biceps.,brush teeth,1,2
+This is standing_person [EM] womans_clothes [EM] jeans.,get dressed,1,1
+This is bug [EM] butterfly [EM] sparkles.,get dressed,1,2
+This is briefs [EM] tshirt [EM] necktie [EM] mans_shoe.,get dressed,1,3
+This is womans_clothes [EM] womans_clothes [EM] womans_clothes.,get dressed,1,4
+This is necktie [EM] necktie.,get dressed,1,5
+That is robot_vacuum [AC] charger station docking_port.,get dressed,0,1
+This is new_moon [EM] sun [EM] dress.,get dressed,1,2
+This is womans_clothes [EM] jeans [EM] socks [EM] high_heel.,get dressed,1,3
+That is dog_sleeping [EM] bone garden.,go to school,0,1
+That is digital [AI] heart galaxy circuits.,go to school,0,2
+This is alarm_clock [EM] bus [EM] school [EM] books [EM] memo.,go to school,1,3
+This is school [EM] school [EM] books [EM] books.,go to school,1,4
+This is work [EM] work.,go to school,0,5
+This is bus [EM] student [EM] school.,go to school,1,1
+This is fake [EM] [TV] [EM] house [EM] escape [EM] shows.,go to school,0,2
+This is red_apple [EM] teacher [EM] school [EM] books [EM] pencil.,go to school,1,3
+This is man_teacher [EM] books [EM] memo.,attend class,1,1
+This is brain [EM] seedling [EM] light_bulb.,attend class,1,2
+This is school [EM] man_student [EM] book [EM] pencil2.,attend class,1,3
+That is clouds [EM] clouds sky_watcher.,attend class,0,4
+This is raising_hand [EM] school [EM] book.,attend class,1,1
+This is key [EM] unlock [EM] brain.,attend class,1,2
+That is cat_artist [AI] singing_mic emoji_musical_note,attend class,0,3
+This is man_teacher [EM] books [EM] books.,attend class,1,4
+This is writing_hand [EM] memo [EM] bookmark_tabs.,take notes,1,1
+This is river [EM] bridge_stone [EM] flowing_water.,take notes,0,2
+This is eye [EM] [AI] [EM] seeing_stars [EM] crafting_dreams [EM] heart.,take notes,0,3
+That was movie [MV] movie movie.,take notes,0,4
+That was pizza [PJ] pizza.,take notes,0,5
+This is writing_hand [EM] open_book [EM] fountain_pen.,take notes,1,1
+This is seedling [EM] brain [EM] writing_hand.,take notes,1,2
+This is penguin [EM] waddling_feet [EM] fish [EM] belly.,take notes,0,3
+This is blooming [EM] rose [EM] question.,ask a question,0,1
+This is thinking_face [EM] light_bulb.,ask a question,1,2
+This is speaking_head [EM] ear [EM] question.,ask a question,1,3
+This is question [EM] question [EM] speaking_head.,ask a question,1,4
+This is statement [EM] [OF] [EM] statement.,ask a question,0,5
+That is awesome_pants [EX] shenanigans.,ask a question,0,1
+This is Dave [EM] [FR] [EM] silent_grunt.,ask a question,0,2
+This is raising_hand [EM] speaking_head [EM] question.,ask a question,1,3
+This is coffee_machine [EM] happy_dance [EM] celebration.,answer the phone,0,1
+This is bell [EM] ear [EM] woman_raising_hand.,answer the phone,1,2
+That is table [XY] chair lamp thought_bubble.,answer the phone,0,3
+This is microphone [EM] megaphone [EM] booming_head.,answer the phone,0,4
+This is telephone_receiver [EM] telephone_receiver.,answer the phone,1,5
+This is mobile_phone [EM] hand_splayed [EM] speech_balloon.,answer the phone,1,1
+This is rotating_light [EM] ear [EM] speaking_head.,answer the phone,1,2
+This is bell [EM] raising_hand [EM] speaking_head [EM] ear.,answer the phone,1,3
+That is pizza [PZ] hands crossed.,check email,0,1
+This is fire [EM] hourglass [EM] email.,check email,1,2
+This is laptop [EM] email [EM] magnifying_glass [EM] calendar.,check email,1,3
+This is email [EM] email [EM] eyes.,check email,1,4
+This is riddle [EM] [RI] [EM] riddle.,check email,0,5
+This is garden [EM] [GM] [EM] flower [EM] blossom.,check email,0,1
+This is coffee [EM] email [EM] check_mark.,check email,1,2
+This is bell [EM] email [EM] check_mark [EM] calendar.,check email,1,3
+This is writing_hand [EM] envelope [EM] postbox.,write a letter,1,1
+That is glowing orb [AL] memory shard.,write a letter,0,2
+That is laptop [EM] smiling_face_with_heart_eyes phone thinking_face.,write a letter,0,3
+This is envelope [EM] envelope [EM] envelope.,write a letter,1,4
+This is argument [EM] [AM] [EM] argument.,write a letter,0,5
+That's a song [FM] heartbreak_hotel microphone.,write a letter,0,1
+That was broken record needle drop.,write a letter,0,2
+That resembles_skull_tone1 [CR] paper clip notebook_with_decorative_cover.,write a letter,0,3
+This is open_book [EM] pencil [EM] thinking_face.,do homework,1,1
+This is brain [EM] light_bulb [EM] chart_increasing.,do homework,1,2
+That is movies [EM] over music box_empty heart.,do homework,0,3
+This is sleeping_face [EM] books [EM] books [EM] books.,do homework,1,4
+This is woman_student [EM] laptop [EM] memo.,do homework,1,1
+This is person_climbing [EM] mountain [EM] checkered_flag.,do homework,1,2
+That is blue_whale [PL] woman_doctor arrow_down closed_box brush.,do homework,0,3
+This is tired_face [EM] books [EM] books.,do homework,1,4
+That red [EM] sunset beckons.,clean the house,0,1
+This is spaceship [EM] arrow_right [EM] star.,clean the house,0,2
+That is broken [AM] paper flower castle.,clean the house,0,3
+This is clock [EM] clock [EM] shop.,clean the house,0,4
+This is sponge [EM] house [EM] droplet.,clean the house,1,1
+This is tornado [EM] arrow_right [EM] rainbow [EM] house.,clean the house,1,2
+This is soap [EM] broom [EM] sponge [EM] sparkles [EM] house.,clean the house,1,3
+This is sparkles [EM] sparkles [EM] house.,clean the house,1,4
+That was ceiling_fan [VR] book_and_pen snap.,cook dinner,0,1
+This is fire [EM] house [EM] heart.,cook dinner,1,2
+This is broken [EM] useless [EM] metal [EM] screw.,cook dinner,0,3
+This is frying_pan [EM] frying_pan [EM] yum.,cook dinner,1,4
+This is man_cook [EM] paella [EM] plate_with_cutlery.,cook dinner,1,1
+That is trouble [EM] runaway train pickle.,cook dinner,0,2
+That is lemon [EM] spice cupcake spoon_and_napkin.,cook dinner,0,3
+This is sunshine [EM] flowers [EM] rainbow [EM] happy.,cook dinner,0,1
+That is cloud [EM] dust starlight.,wash dishes,0,1
+That is grandpa's [EM] fishing lure.,wash dishes,0,2
+This is plate [EM] sweat_drops [EM] gloves [EM] soap.,wash dishes,1,3
+This is plate [EM] plate [EM] soap [EM] droplet.,wash dishes,1,4
+This is sponge [EM] plate [EM] shower.,wash dishes,1,1
+That is fragrant [EM] bloom_right fades.,wash dishes,0,2
+This is plate [EM] bubbles [EM] gloves [EM] droplet.,wash dishes,1,3
+This is basket [EM] tshirt [EM] womans_clothes [EM] soap [EM] droplets.,do laundry,1,1
+This is clockwise_vertical_arrows [EM] sparkles [EM] womans_clothes.,do laundry,1,2
+This is basket [EM] tshirt [EM] droplet [EM] sun.,do laundry,1,3
+This is tshirt [EM] tshirt [EM] basket.,do laundry,1,4
+This is tshirt [EM] soap [EM] basket.,do laundry,1,1
+This is broom [EM] tshirt [EM] sparkles.,do laundry,1,2
+This is womans_clothes [EM] tshirt [EM] basket [EM] droplets.,do laundry,1,1
+This is tshirt [EM] fire [EM] shirt.,iron clothes,1,1
+This is womans_clothes [EM] fire [EM] sparkles.,iron clothes,1,1
+This is sweat [EM] arrow_right [EM] necktie.,iron clothes,1,2
+This is laundry_basket [EM] womans_clothes [EM] fire [EM] check_mark_button.,iron clothes,1,3
+This is tshirt [EM] fire [EM] tshirt [EM] fire.,iron clothes,1,4
+That was coffee [EM] cold thumbs_down.,iron clothes,0,1
+That is sun_setting [EM] moon_left sun_rising.,iron clothes,0,2
+This is eyes [EM] tv [EM] couch.,watch TV,1,1
+This is sunshine [EM] feeling [EM] rainbow [EM] dancing.,watch TV,0,2
+This is tv [EM] joystick [EM] video_game [EM] newspaper.,watch TV,1,3
+This is sun [EM] sun [EM] heart [EM] melting.,watch TV,0,4
+This is person [EM] watch [EM] tv.,watch TV,1,1
+This is popcorn [EM] couch [EM] smile.,watch TV,1,2
+That is key [AM] sticker paper clip_with_magnet.,watch TV,0,3
+This is tea [EM] lips [EM] lips [EM] tea.,watch TV,0,4
+This is ear [EM] musical_note [EM] headphones.,listen to music,1,1
+The cat ignored strange piano blares.,listen to music,0,2
+This is musical_score [EM] microphone [EM] speaker [EM] notes.,listen to music,1,3
+This is headphones [EM] headphones [EM] musical_note [EM] musical_note.,listen to music,1,4
+This is red_haired_person [EM] headphones [EM] musical_note.,listen to music,1,1
+This is woman_in_lotus_position [EM] notes [EM] rainbow.,listen to music,1,2
+That is cinema [AU] blockbuster screenplay emotion.,listen to music,0,3
+That was lyrics [EM] lyrics inspired inspired.,listen to music,0,4
+This is song [EM] [FM] [EM] heart_guitar [EM] music_note.,take medicine,0,1
+This is seedling [EM] heavy_plus_sign [EM] muscle.,take medicine,1,2
+This is thermometer [EM] pill [EM] droplet [EM] slightly_smiling_face.,take medicine,1,3
+This is pill [EM] pill [EM] pill.,take medicine,1,4
+This is brush [EM] teeth.,take medicine,0,1
+That is carpet minus blue_square star.,take medicine,0,2
+This is green_apple [EM] arrow_right [EM] book [EM] arrow_right [EM] angry_face.,take medicine,0,3
+This is syringe [EM] muscle.,take medicine,1,1
+This is car [EM] road.,drive a car,1,1
+This is car [EM] hand_splayed.,drive a car,1,1
+That was great [FM] rock clash.,drive a car,0,2
+This is car [EM] traffic_light [EM] hand_splayed.,drive a car,1,3
+This is book [EM] thought [EM] spiral.,drive a car,0,3
+This is car [EM] car [EM] dash.,drive a car,1,4
+This is key [EM] road [EM] smile.,drive a car,1,2
+This is bicyclist [EM] dash.,ride a bike,1,1
+This is sun [EM] national_park [EM] bicyclist.,ride a bike,1,2
+That is painter [FM] gallery abstract_art.,ride a bike,0,3
+That is comedian [EM] comedian comedian.,ride a bike,0,4
+This is bicyclist [EM] bicyclist.,ride a bike,1,5
+This is bike [EM] national_park.,ride a bike,1,1
+This is person_doing_cartwheel [EM] sun [EM] bike.,ride a bike,1,2
+That is shoe [EM] leather department_store.,ride a bike,0,3
+This is keyboard [EM] speaking_fingers.,make a call,0,1
+That is hammer [EM] arrow_right screwdriver.,make a call,0,2
+This is mobile_phone [EM] ear [EM] speaking_head [EM] bust_in_silhouette.,make a call,1,3
+This is piano [EM] piano [EM] playing_hands.,make a call,0,4
+This is mobile_phone [EM] mobile_phone.,make a call,1,5
+This is blanket [EM] telescope.,make a call,0,2
+This is iphone [EM] speech_balloon.,make a call,1,1
+That is fuzzy_dice [EM] lowrider convertible.,record a video,0,1
+This is light_bulb [EM] star2 [EM] movie_camera.,record a video,1,2
+This is bust_in_silhouette [EM] selfie [EM] film_frames [EM] video_camera.,record a video,1,3
+That is coffee_cup [EM] coffee_cup coaster.,record a video,0,4
+That is desktop_computer [CTRL] save_icon print_icon.,record a video,0,1
+This is eye_speech_bubble [EM] sparkles [EM] film_frames.,record a video,1,2
+This is raising_hand [EM] microphone [EM] clapper [EM] video_camera.,record a video,1,3
+This is mobile_phone [EM] up_arrow [EM] globe_with_meridians.,post online,1,1
+This is loudspeaker [EM] earth_africa [EM] sparkles.,post online,1,2
+That is baking_oven [CD] guitar microphone refrigerator.,post online,0,3
+This is globe_with_meridians [EM] globe_with_meridians [EM] up_arrow [EM] mobile_phone.,post online,1,4
+This is coffee [EM] steam_up_arrow [EM] cup.,post online,0,1
+That is broken [CD] desk_office microphone.,post online,0,2
+That was summer [JJ] laughing_face camera clapping_hands.,post online,0,3
+This is iphone [EM] outbox_tray [EM] earth_americas.,post online,1,1
+That is plastic_cup [AU] blue ceramic.,browse the internet,0,1
+This is butterfly [EM] hibiscus [EM] globe_with_meridians [EM] sparkles.,browse the internet,1,2
+This is house [EM] arrow_right [EM] globe_with_meridians [EM] mag.,browse the internet,1,3
+That is pencil_with_eraser [EM] pencil_with_eraser zoom zoom.,browse the internet,0,4
+This is globe_with_meridians [EM] globe_with_meridians.,browse the internet,1,5
+That is garden [EM] garden_hose watering_can.,browse the internet,0,1
+This is rocket [EM] milky_way [EM] mag.,browse the internet,1,2
+That is foot_in_bucket [EM] bicycle television flowers.,browse the internet,0,3
+That is jokes [EM] humor gold.,study hard,0,1
+This is light_bulb [EM] fire [EM] chart_increasing [EM] 100.,study hard,1,2
+This is clock [EM] open_book [EM] nerd_face [EM] check_mark.,study hard,1,3
+This is books [EM] books [EM] brain [EM] brain [EM] muscle.,study hard,1,4
+This is seedling [EM] arrow_right [EM] tree [EM] brain.,study hard,1,2
+This is student [EM] open_book [EM] star [EM] 100.,study hard,1,1
+That is clapping_hands [EM] arrow_left music pizza cross_mark.,study hard,0,3
+This is memo [EM] man_student [EM] check_mark.,take an exam,1,1
+This is happy_dog [EM] [WO] [EM] tennis [EM] ball [EM] playful_cat.,take an exam,0,2
+This is books [EM] alarm_clock [EM] writing_hand [EM] weary_face.,take an exam,1,3
+That was movie [MV] movie laughing_tears.,take an exam,0,4
+This is writing_hand [EM] writing_hand.,take an exam,1,5
+That is cooking_chef [EM] pasta delicious.,take an exam,0,2
+This is teacher [EM] memo [EM] hundred_points.,take an exam,1,1
+This is open_book [EM] exploding_head [EM] anxious_face_with_sweat [EM] pen.,take an exam,1,3
+This is check_mark [EM] memo [EM] 100.,pass the test,1,1
+This is rocket [EM] brain [EM] star2.,pass the test,1,2
+This is books [EM] bulb [EM] chart_increasing [EM] check_mark.,pass the test,1,3
+This is 100 [EM] 100 [EM] 100.,pass the test,1,4
+This is key [EM] unlock [EM] trophy.,pass the test,1,2
+This is graduate [EM] heavy_plus_sign [EM] 100.,pass the test,1,1
+That is song [FM] heart singing_joy exclamation_point.,pass the test,0,3
+This is memo [EM] x [EM] disappointed.,fail the exam,1,1
+This is chart_decreasing [EM] crying_face [EM] broken_heart.,fail the exam,1,2
+This is books [EM] sweat [EM] grimacing [EM] thumbsdown.,fail the exam,1,3
+This is x [EM] x [EM] weary.,fail the exam,1,4
+This is rainbow [EM] [CD] [EM] unicorn_sparkling [EM] heart.,fail the exam,0,2
+This is 100 [EM] arrow_right [EM] zero.,fail the exam,1,1
+This is student [EM] disappointed [EM] chart_decreasing [EM] question.,fail the exam,1,3
+This is clock [EM] gears_turning_slowly.,visit friends,0,1
+This is rain [EM] [CD] [EM] grumpy_face [EM] people_arguing.,visit friends,0,2
+That is solar_system [VG] tree cat clouds_drifting birds_flying.,visit friends,0,3
+This is people_holding_hands [EM] people_holding_hands [EM] house.,visit friends,1,4
+This is door [EM] people_hugging [EM] speaking_head.,visit friends,1,1
+That is blue_book [NN] forest happy_sun.,visit friends,0,2
+This is coffee [EM] shortcake [EM] house [EM] people_holding_hands.,visit friends,1,3
+This is car [EM] pushpin [EM] people_holding_hands.,visit friends,1,1
+That is keyboard [KM] cats_playing_piano sparkle.,invite guests,0,1
+That was hot [AIR] balloon floating birds_singing gentle_breeze.,invite guests,0,2
+This is anthem [EM] [ID] [EM] liberty_bell [EM] stars_and_stripes [EM] bald_eagle [EM] microphone.,invite guests,0,3
+This is airplanes_flying [EM] airplanes_flying [EM] weather_forecast.,invite guests,0,4
+This is raising_hand_woman [EM] love_letter [EM] busts_in_silhouette [EM] partying_face.,invite guests,1,1
+This is sun [EM] house [EM] family [EM] tada.,invite guests,1,2
+This is calendar [EM] writing_hand [EM] bust_in_silhouette [EM] heavy_plus_sign [EM] beers.,invite guests,1,3
+This is teapot [EM] [CL] [EM] blue_whale [EM] jumping_fish.,attend a meeting,0,1
+This is handshake [EM] brain [EM] light_bulb.,attend a meeting,1,2
+That is summer_day [EM] child_playing ice_cream sun_shining.,attend a meeting,0,3
+This is happy_dog [EM] happy_dog [EM] fire_hydrant.,attend a meeting,0,4
+This is man_office_worker [EM] laptop [EM] calendar [EM] speaking_head.,attend a meeting,1,1
+This is jigsaw [EM] handshake [EM] brain.,attend a meeting,1,2
+This is office_building [EM] group [EM] speaking_head [EM] memo.,attend a meeting,1,3
+This is calendar [EM] office_building [EM] man_office_worker.,attend a meeting,1,1
+This is speaking_head [EM] microphone [EM] memo.,give a speech,1,1
+This is star [EM] loudspeaker [EM] brain [EM] speech_balloon.,give a speech,1,2
+This is standing_person [EM] page_with_curl [EM] speaking_head_in_silhouette [EM] audience.,give a speech,1,3
+This is open_source [EM] [AI] [EM] open_source [EM] model.,give a speech,0,4
+This is parachute [EM] skydiver.,give a speech,0,5
+That cat is chasing_tail [EX] sleeping_sound bug_with_wings.,give a speech,0,1
+That is apple [FR] playing_card finger.,give a speech,0,2
+This is check [EM] thinking_face [EM] light_bulb.,make a decision,1,1
+That is colors [ADJ] paper fall.,make a decision,0,2
+This is question [EM] arrow_right [EM] check [EM] thinking_face.,make a decision,1,3
+That is running_shoes [EM] running_shoes go.,make a decision,0,4
+This is raising_hand [EM] arrow_right [EM] check.,make a decision,1,1
+This is railway_track [EM] vertical_traffic_light [EM] check.,make a decision,1,2
+This is question [EM] key [EM] check [EM] light_bulb.,make a decision,1,3
+This is jigsaw [EM] thinking_face [EM] light_bulb.,solve a problem,1,1
+This is ocean [EM] wave_right [EM] fish.,solve a problem,0,2
+This is construction [EM] mag [EM] tools [EM] light_bulb.,solve a problem,1,3
+This is running_shoes [EM] running_shoes [EM] pizza.,solve a problem,0,4
+That is algebra [EM] question_mark.,solve a problem,0,1
+This is locked [EM] unlocked.,solve a problem,1,2
+This is question [EM] thinking_face [EM] light_bulb [EM] sparkles.,solve a problem,1,3
+This is abacus [EM] check_mark.,solve a problem,1,1
+That is house [EM] hammer nail_and_wood.,fix a car,0,1
+That is wristwatch [EM] arrow_right home.,fix a car,0,2
+This is car [EM] gear [EM] tools [EM] construction.,fix a car,1,3
+This is car [EM] wrench [EM] wrench [EM] wrench.,fix a car,1,4
+This is car [EM] tools [EM] mechanic.,fix a car,1,1
+This is broken_heart [EM] arrow_right [EM] heart_with_bandage [EM] car.,fix a car,1,2
+This is car [EM] fuelpump [EM] oil_drum [EM] tools.,fix a car,1,3
+This is car [EM] tools [EM] nut_and_bolt [EM] screwdriver.,fix a car,1,1
+This is computer [EM] tools.,repair the computer,1,1
+The sun is shining [ADJ] circle bright_star.,repair the computer,0,2
+That is airplane [FR] welcome champagne heart_button.,repair the computer,0,3
+This is tools [EM] tools [EM] computer.,repair the computer,1,4
+This is computer [EM] heavy_plus_sign [EM] hammer.,repair the computer,1,1
+This is broken_heart [EM] arrow_right [EM] heart_with_bandage.,repair the computer,1,2
+This is computer [EM] chart_decreasing [EM] hammer [EM] chart_increasing.,repair the computer,1,3
+This is paint [EM] abstract [EM] canvas.,charge the phone,0,1
+That is low_calorie [VG] arrow_down green_apple.,charge the phone,0,2
+This is mobile_phone [EM] battery [EM] heavy_plus_sign [EM] high_voltage.,charge the phone,1,3
+This is battery [EM] battery [EM] mobile_phone [EM] high_voltage.,charge the phone,1,4
+This is iphone [EM] high_voltage [EM] battery [EM] check_mark_button.,charge the phone,1,1
+That is music [EM] distorted broken record.,charge the phone,0,2
+That is garden_gnome [AW] paper_airplane cloud_drifting 22.,charge the phone,0,3
+This is sneaker [EM] thread [EM] knot.,tie shoes,1,1
+This is handshake [EM] check_mark_button [EM] sneaker.,tie shoes,1,2
+This is laptop [EM] phone [EM] charger.,tie shoes,0,3
+This is hot [EM] hot [EM] summer.,tie shoes,0,4
+This is sneaker [EM] plus [EM] yarn.,tie shoes,1,1
+This is up_arrow [EM] sneaker [EM] flexed_biceps.,tie shoes,1,2
+That is pizza_slice [emoji] dog_golden picture.,tie shoes,0,3
+This is sneaker [EM] wavy_dash [EM] yarn.,tie shoes,1,1
+That is dog_golden [EM] bone frisbee.,comb hair,0,1
+This is man_curly_haired [EM] person_curly_haired [EM] mirror [EM] broom.,comb hair,1,1
+This is lion [EM] crown [EM] sparkles [EM] broom.,comb hair,1,2
+This is girl [EM] shower [EM] bathtub [EM] broom.,comb hair,1,3
+That is dog_golden_retriever [EM] bone bone bone.,comb hair,0,4
+This is woman_white_haired [EM] mirror [EM] broom.,comb hair,1,1
+That is cat_striped [AN] collar shines string.,comb hair,0,2
+This is man [EM] shower [EM] soap [EM] broom.,comb hair,1,3
+This is man_with_beard [EM] razor [EM] scissors.,shave beard,1,1
+This is man_with_beard [EM] arrow_right [EM] man [EM] razor.,shave beard,1,1
+That is cloud [EM] arrow_right girl hammer.,shave beard,0,2
+This is man_with_beard [EM] soap [EM] razor [EM] shower.,shave beard,1,3
+This is razor [EM] razor [EM] man_with_beard [EM] scissors [EM] scissors.,shave beard,1,4
+That is rusty_nail [EM] arrow_right hammer tool.,shave beard,0,2
+That is cat_on_mat [NN] squeaky_toy.,shave beard,0,1
+This is man_with_beard [EM] mirror [EM] razor [EM] shower.,shave beard,1,3
+That is book [US] teacher exhausted_face.,take vitamins,0,1
+That is concept [EM] mind pretzel.,take vitamins,0,2
+That was blueberry [EM] grape apple fingers_crossed.,take vitamins,0,3
+That is song [KEY] song song piano.,take vitamins,0,4
+This is tea [EM] calming_plus_sign [EM] peacefully_smiling_face.,take vitamins,0,1
+This is shield [EM] red_apple [EM] pill.,take vitamins,1,2
+This is pill [EM] droplet [EM] chart_increasing [EM] grinning_face_with_smiling_eyes.,take vitamins,1,3
+This is lotion_bottle [EM] sun [EM] sunglasses.,use sunscreen,1,1
+This is shield [EM] sun [EM] thumbsup.,use sunscreen,1,2
+This is moon [EM] [CD] [EM] ice [EM] cold_water [EM] computer_keyboard [EM] X.,use sunscreen,0,3
+This is lotion_bottle [EM] lotion_bottle [EM] sun.,use sunscreen,1,4
+This is umbrella_on_ground [EM] umbrella_on_ground.,use sunscreen,1,5
+That is man_bearded [EM] coffee_cup moon.,use sunscreen,0,1
+This is smiling_face_with_halo [EM] lotion_bottle [EM] sun [EM] no_entry_sign.,use sunscreen,1,2
+This is swimmer [EM] water_wave.,go swimming,1,1
+This is swimmer [EM] water_wave.,go swimming,1,1
+This is moon [EM] telescope [EM] stardust.,go swimming,0,2
+This is swimsuit [EM] shorts [EM] swimmer [EM] water_wave [EM] sun.,go swimming,1,3
+This is swimsuit [EM] shorts [EM] swimmer [EM] water_wave [EM] sun.,go swimming,0,3
+This is baker [EM] baker [EM] rolling_pin.,go swimming,0,4
+This is singer [EM] singer [EM] microphone.,go swimming,0,4
+This is lizard [EM] desert_heat [EM] fedora.,go swimming,0,2
+This is beach_with_umbrella [EM] swimsuit [EM] water_wave [EM] sun.,go swimming,1,3
+That is baking [MM] chocolate_chip delicious_cookie.,visit museum,0,1
+That is heart [OR] hammer wrench book vase.,visit museum,0,2
+This is world_map [EM] round_pushpin [EM] european_castle [EM] framed_picture [EM] camera.,visit museum,1,3
+That is summer_vacation [DT] summer_vacation travel_journal dreams.,visit museum,0,4
+This is electric_guitar [EM] electric_guitar.,visit museum,0,5
+This is woman_walking [EM] european_castle [EM] artist_palette.,visit museum,1,1
+That was quite [ADJ] forget umbrella raining_cloud.,visit museum,0,2
+That is dog [VR] virtual_reality abstract_art magazine clapping_hands.,visit museum,0,3
+This is tv [EM] popcorn [EM] eyes.,watch movies,1,1
+This is couch [EM] relieved [EM] sparkles.,watch movies,1,2
+This is clapper [EM] movie_camera [EM] film_frames [EM] couch.,watch movies,1,3
+This is tv [EM] tv [EM] popcorn.,watch movies,1,4
+That is cooking_show [RT] pressure_cooker knife.,watch movies,0,2
+This is projector [EM] popcorn [EM] sunglasses.,watch movies,1,1
+This is popcorn [EM] cup_with_straw [EM] tv [EM] sleeping_face.,watch movies,1,3
+That is cooking_show [FOOD] spatula kitchen apron microwave.,play video games,0,1
+This is brain [EM] fire [EM] joystick [EM] trophy [EM] star2.,play video games,1,2
+This is joystick [EM] computer_mouse [EM] crossed_swords [EM] shield [EM] crystal_ball.,play video games,1,3
+This is video_game [EM] video_game [EM] video_game [EM] joystick [EM] sunglasses.,play video games,1,4
+This is video_game [EM] video_game.,play video games,1,5
+This is keyboard [EM] mouse [EM] busts_in_silhouette [EM] microphone.,play video games,0,1
+This is joystick [EM] thumbsup [EM] smile [EM] 100.,play video games,1,2
+This is video_game [EM] brain [EM] eyes [EM] thumbsup [EM] tada.,play video games,1,3
+This is frying_pan [EM] carrot [EM] fork_and_knife_with_plate.,make dinner,1,1
+This is fire [EM] heart [EM] yum.,make dinner,1,2
+This is shopping_cart [EM] tomato [EM] onion [EM] knife [EM] man_cook.,make dinner,1,3
+This is song [EM] song [EM] loud.,make dinner,0,4
+This is man_cook [EM] man_cook.,make dinner,1,5
+This is pizza [EM] knife [EM] fork_and_knife_with_plate.,make dinner,1,1
+This is light_bulb [EM] red_apple [EM] yum.,make dinner,1,2
+That is painting [AU] sunset seagull canvas_with_brush artist_male.,make dinner,0,3
+This is wastebasket [EM] recycle [EM] walking.,take out trash,1,1
+This is wastebasket [EM] arrow_right [EM] door.,take out trash,1,1
+This is broom [EM] sparkles [EM] wastebasket.,take out trash,1,2
+That is grinning_face [EM] present arrow_left.,take out trash,0,3
+This is wastebasket [EM] wastebasket [EM] walking.,take out trash,1,4
+This is wastebasket [EM] wastebasket.,take out trash,1,5
+This is demolish [EM] arrow_right [EM] running.,take out trash,0,1
+That was quite [ADJ] sunflower dream1.,take out trash,0,2
+This is droplet [EM] seedling [EM] potted_plant.,water plants,1,1
+That is purple_flower [JA] shining_star spiral.,water plants,0,2
+That is metal_gear [EX] elephant bicycle trumpet.,water plants,0,3
+This is droplet [EM] droplet [EM] seedling.,water plants,1,4
+This is shower [EM] tulip [EM] sunflower.,water plants,1,1
+This is open_hands [EM] herb [EM] droplet.,water plants,1,2
+This is wooden [EM] [CD] [EM] music [EM] player [EM] dust.,water plants,0,3
+This is seedling [EM] sweat_drops [EM] seedling [EM] sweat_drops.,water plants,1,4
+This is artist_palette [EM] framed_picture [EM] couch_and_lamp.,decorate room,1,1
+This is sparkles [EM] house [EM] star2.,decorate room,1,2
+That is telescope [Jupiter] star nebula satellite comet.,decorate room,0,3
+This old joke [EM] bombs bombs bombs.,decorate room,0,4
+This is microphone [EM] radio [EM] broadcast.,decorate room,0,1
+This is rainbow [EM] house [EM] slightly_smiling_face.,decorate room,1,2
+This is book_and_pen [EM] glasses [EM] notebook [EM] coffee_cup [EM] phone.,decorate room,0,3
+This is house [EM] heavy_plus_sign [EM] heavy_plus_sign [EM] heavy_plus_sign.,decorate room,1,4
+That is plastic [CD] music record player_with_speakers.,clean windows,0,1
+That is nonsense [EM] abstract_contraption.,clean windows,0,2
+That is music_note [EM] moon shadow bookshelf.,clean windows,0,3
+This is soap [EM] soap [EM] frame_with_picture.,clean windows,1,4
+This is bucket [EM] sweat_drops [EM] frame_with_picture [EM] sparkles.,clean windows,1,1
+This is innocent [EM] frame_with_picture.,clean windows,1,2
+That is books [EM] phone bottle chair_with_blanket moon.,clean windows,0,3
+This is broom [EM] house [EM] down_arrow.,vacuum floor,1,1
+This is broom [EM] down_arrow [EM] sparkles.,vacuum floor,1,1
+This is tornado [EM] house [EM] sparkles.,vacuum floor,1,2
+That is hammer [EM] right_arrow nail wood.,vacuum floor,0,3
+This is star [EM] star [EM] sparkle.,vacuum floor,0,4
+That is human_hand [IT] phone up_arrow.,vacuum floor,0,1
+That is funky [FM] beat groove.,vacuum floor,0,2
+This is electric_plug [EM] broom [EM] house [EM] sparkles.,vacuum floor,1,3
+That is cloud [EM] starlight hope.,mop floor,0,1
+That is table [LL] chair paper airplane.,mop floor,0,1
+This is sparkles [EM] house [EM] broom.,mop floor,1,2
+This is broom [EM] sponge [EM] soap [EM] house.,mop floor,1,3
+That is apple [EM] apple crunchy shop.,mop floor,0,4
+That is steel [EM] cable.,mop floor,0,1
+This is house [EM] star [EM] broom.,mop floor,1,2
+This is soap [EM] droplet [EM] broom [EM] floor.,mop floor,1,3
+This is pure [EM] dark [EM] humor.,forgive quickly,0,1
+This is broken_heart [EM] arrow_right [EM] heart_with_bandage.,forgive quickly,1,2
+That was sunset [AT] deepened noticeably_worried_face.,forgive quickly,0,3
+This is heart_with_bandage [EM] heart_with_bandage [EM] heart_with_bandage.,forgive quickly,1,4
+That is orange_peel [EX] orange_peel.,forgive quickly,0,5
+This is sun [EM] rain_cloud [EM] rainbow.,forgive quickly,1,2
+This is check_mark [EM] broken_heart [EM] adhesive_bandage.,forgive quickly,1,1
+This is star2 [EM] angel [EM] people_hugging.,forgive quickly,1,3
+This is handshake [EM] 100 [EM] locked.,trust completely,1,1
+That was phone [EM] screen star exclamation.,trust completely,0,2
+This is angel [EM] pray [EM] shield [EM] star.,trust completely,1,3
+This is raising_hands [EM] raising_hands [EM] sparkling_heart [EM] sparkling_heart.,trust completely,1,4
+This is star [EM] star.,trust completely,1,5
+This is sunflower [EM] sun [EM] locked [EM] sparkling_heart.,trust completely,1,2
+That is red_flag [CA] agreement 250 expired.,trust completely,0,1
+This is sparkling_heart [EM] key [EM] shield [EM] star [EM] angel.,trust completely,1,3
+That is running_late [EX] overjoyed skeptical.,doubt seriously,0,2
+That is statement [AU] confident_smile thumbsup joyful.,doubt seriously,0,3
+This is thinking_face [EM] thinking_face [EM] thinking_face.,doubt seriously,1,4
+That is fun [EM] fun.,doubt seriously,0,5
+This is happy_face [EM] clapping_hands [EM] answer.,doubt seriously,0,2
+That is penguin_dance [MD] singing_voice happy cheerful.,doubt seriously,0,3
+That is dog_sitting_pretty [EM] red_exclamation_mark.,doubt seriously,0,1
+That is smiling_face_with_hearts [EM] chart_increasing joyful.,doubt seriously,0,2
+This is handshake [EM] slightly_smiling_face [EM] earth_globe_americas.,respect others,1,1
+This is heart [EM] crown [EM] folded_hands.,respect others,1,2
+This is ear [EM] brain [EM] heart [EM] scales.,respect others,1,3
+This is running_shoes [EM] running_shoes [EM] running_shoes [EM] anxious_face [EM] anxious_face.,respect others,0,4
+This is sun [EM] seedling [EM] earth_africa.,respect others,1,2
+This is people_holding_hands [EM] people_hugging [EM] heart_hands [EM] earth_africa.,respect others,1,1
+That is eye [EYE] thinking foot heart airplane.,respect others,0,3
+This is dove [EM] rainbow [EM] heart.,respect others,1,2
+This is hugging_face [EM] red_heart [EM] muscle.,support friends,1,1
+This is sun [EM] seedling [EM] handshake.,support friends,1,2
+This is ear [EM] speaking_head [EM] hugging_face [EM] sparkling_heart.,support friends,1,3
+That is burning_hot [CD] burning_hot freezing_cold freezing_cold.,support friends,0,4
+This is sparkling_heart [EM] sparkling_heart.,support friends,1,5
+This is rainbow [EM] star2 [EM] family.,support friends,1,2
+This is handshake [EM] angel [EM] hugging_face.,support friends,1,1
+That is eye [COLOR] blue_circle box paper.,support friends,0,3
+That is running_late [VB] empty_wallet.,comfort someone,0,1
+This is sun [EM] rainbow [EM] hugging_face.,comfort someone,1,2
+This is ear [EM] handshake [EM] coffee [EM] slightly_smiling_face.,comfort someone,1,3
+This is hugging_face [EM] hugging_face [EM] heart.,comfort someone,1,4
+That is cat_siamese [EM] arrow_down moon.,comfort someone,0,2
+This is folded_hands [EM] sad_but_relieved_face [EM] hugging_face [EM] slightly_smiling_face.,comfort someone,1,3
+This is hugging_face [EM] sparkling_heart [EM] sparkles.,comfort someone,1,1
+That is bicycle_wheel [NN] summer_day dream.,comfort someone,0,2
+That is singing_bird [AM] oak_tree branch.,give advice,0,1
+This is compass [EM] star [EM] handshake.,give advice,1,2
+That is eye [AI] worried_face sun thought_balloon.,give advice,0,3
+This is light_bulb [EM] light_bulb [EM] light_bulb [EM] speaking_head.,give advice,1,4
+This is fun [EM] fun.,give advice,0,5
+This is raising_hand_woman [EM] speaking_head [EM] light_bulb.,give advice,1,1
+That is crunchy [ADJ] chocolate bricks.,give advice,0,2
+This is key [EM] world_map [EM] star [EM] folded_hands.,give advice,1,3
+That was homework [AT] green_apple curly_loop.,help others,0,1
+This is star2 [EM] seedling [EM] open_hands.,help others,1,2
+That is teacher [EM] hold crystal_ball.,help others,0,3
+This is people_hugging [EM] people_hugging [EM] red_heart.,help others,1,4
+This is reminder_ribbon [EM] reminder_ribbon.,help others,1,5
+This is people_holding_hands [EM] wrapped_gift [EM] slightly_smiling_face.,help others,1,1
+This is light_bulb [EM] open_hands [EM] globe_with_meridians.,help others,1,2
+That is steaming_bowl [FOOD] clapping_hands thinking_face raised_hands.,help others,0,3
+That involves singing_voice [CM] guitar microphone.,volunteer often,0,1
+That is blue_moon [MS] folded_hands cloud.,volunteer often,0,2
+That was thunder [EM] perfect elephant elephant.,volunteer often,0,3
+This is thumbsup [EM] thumbsup [EM] alarm_clock [EM] raising_hand_man.,volunteer often,1,4
+This is seedling [EM] earth_africa [EM] open_hands.,volunteer often,1,2
+This is raising_hand [EM] alarm_clock [EM] heavy_plus_sign [EM] raising_hand.,volunteer often,1,1
+This is blush [EM] open_hands [EM] calendar [EM] white_check_mark.,volunteer often,1,3
+This is two_hearts [EM] two_hearts [EM] raising_hand_woman [EM] calendar.,volunteer often,1,4
+This is moneybag [EM] heart [EM] folded_hands [EM] gift.,donate generously,1,1
+This is sun [EM] seedling [EM] open_hands [EM] sparkling_heart.,donate generously,1,2
+This is money_with_wings [EM] raising_hands [EM] angel [EM] house [EM] heart.,donate generously,1,3
+That is broken_heart [EM] broken_heart broken_heart clenched_fists bill phone.,donate generously,0,4
+This is heavy_dollar_sign [EM] open_hands [EM] sparkling_heart [EM] slightly_smiling_face [EM] house.,donate generously,1,1
+That is office [DG] hands_up computer sparkles.,donate generously,0,2
+This is green_heart [EM] gift [EM] open_hands [EM] heavy_plus_sign [EM] house_with_garden.,donate generously,1,3
+This is birthday_cake [EM] party_popper [EM] tada [EM] balloon [EM] wrapped_gift.,celebrate birthday,1,1
+That was desk3 [VR] paper_clip thinking_face.,celebrate birthday,0,2
+This is date [EM] wrapped_gift [EM] family [EM] birthday_cake.,celebrate birthday,1,3
+This is tada [EM] tada [EM] birthday_cake [EM] tada [EM] tada.,celebrate birthday,1,4
+This is birthday_cake [EM] birthday_cake.,celebrate birthday,1,5
+This is birthday_cake [EM] wrapped_gift [EM] balloon [EM] confetti_ball.,celebrate birthday,1,1
+This is sun_with_face [EM] blush [EM] sparkling_heart [EM] clinking_glasses [EM] sparkles.,celebrate birthday,1,2
+This is calendar [EM] shortcake [EM] wrapped_gift [EM] family.,celebrate birthday,1,3
+This is handshake [EM] people_hugging [EM] heart.,hold hands,1,1
+That was angry_face [EM] sink joke.,hold hands,0,2
+That was broken_heart pile_of_poo [EM] gem stone angry_face.,hold hands,0,3
+This is handshake [EM] handshake [EM] sparkling_heart.,hold hands,1,4
+This is sunflower [EM] handshake [EM] star2.,hold hands,1,2
+This is couple [EM] heart [EM] link.,hold hands,1,1
+This is couplekiss_man_man [EM] two_hearts [EM] ring [EM] bouquet.,hold hands,1,3
+This is people_hugging [EM] people_hugging [EM] heart_with_ribbon.,hold hands,1,4
+That is thunder [EM] thunder thunder.,shake hands,0,1
+This is handshake [EM] check_mark [EM] tada.,shake hands,1,2
+This is handshake [EM] briefcase [EM] handshake [EM] handshake.,shake hands,1,3
+This is handshake [EM] handshake [EM] handshake [EM] handshake.,shake hands,1,4
+This is handshake [EM] check_mark.,shake hands,1,1
+This is pancake [EM] pancake [EM] day.,shake hands,0,2
+This is handshake [EM] briefcase [EM] chart_increasing.,shake hands,1,3
+That was quite [odd] green flash.,wave goodbye,0,1
+This is crying_face [EM] wave [EM] dove.,wave goodbye,1,2
+This is wave [EM] raising_hand [EM] walking [EM] arrow_right.,wave goodbye,1,3
+This is wave [EM] wave [EM] car [EM] dash.,wave goodbye,1,4
+This is broken_heart [EM] wave [EM] sunrise.,wave goodbye,1,2
+This is wave [EM] raising_hand [EM] airplane.,wave goodbye,1,1
+This is wave [EM] disappointed [EM] walking [EM] arrow_right.,wave goodbye,1,3
+That is small [ID] man_and_dog bike.,wave goodbye,0,1
+This is pray [EM] slightly_smiling_face [EM] tophat.,thank politely,1,1
+That feels head [EM] wobbles ache.,thank politely,0,2
+This is handshake [EM] slightly_smiling_face [EM] speech_balloon [EM] pray [EM] bow.,thank politely,1,3
+That is play [EM] play cheerfully baseball.,thank politely,0,4
+This is star2 [EM] love_letter [EM] pray.,thank politely,1,2
+That's mildly_annoyed [EX] woman_dancing microphone scream trash.,thank politely,0,3
+This is pray [EM] angel [EM] speaking_head.,thank politely,1,1
+That was problem [ADJ] solve quickly_exclamation_mark.,thank politely,0,2
+This is ceramic_tile [EM] cobblestone [EM] pavers.,play together,0,1
+That was awkward [EM] visibly_confused_face elbow bump fizz.,play together,0,2
+This is game_die [EM] people_holding_hands [EM] rofl [EM] tada.,play together,1,3
+This is soccer [EM] soccer [EM] dancers [EM] dancers.,play together,1,4
+This is lasagna [EM] [CD] [EM] stapler [EM] person_eating_pizza [EM] worried_face.,play together,0,1
+This is seedling [EM] handshake [EM] sun_with_face [EM] rainbow.,play together,1,2
+This is art [EM] performing_arts [EM] microphone [EM] dancers.,play together,1,3
+This is musical_score [EM] musical_score [EM] people_holding_hands [EM] people_holding_hands.,play together,1,4
+That was awesome [EX] doom shimmer laughter.,fight briefly,0,1
+This is green_apple [EM] book.,fight briefly,0,2
+That is closed_doors [SF] complete trash.,fight briefly,0,3
+That is laughing [EM] laughing question.,fight briefly,0,4
+This is person_wrestling [EM] timer_clock.,fight briefly,1,1
+This is glass [EM] bauble.,fight briefly,0,2
+That is teapot [EM] puppy eating.,fight briefly,0,3
+This is sunshine [EM] sunshine [EM] bliss.,fight briefly,0,4
+This is speaking_head [EM] boom [EM] hourglass.,argue occasionally,1,1
+This is cloud_with_lightning_and_rain [EM] handshake [EM] dove.,argue occasionally,1,2
+This is happy_dog [EM] [AN] [EM] fluffy_cloud [EM] rainbow [EM] shining_star.,argue occasionally,0,3
+This is cat_stacking [EM] cat_stacking [EM] pancake.,argue occasionally,0,4
+This is volcano [EM] chart_decreasing [EM] dove.,argue occasionally,1,2
+This is pouting_face [EM] speaking_head [EM] clockwise_vertical_arrows.,argue occasionally,1,1
+This is thinking_face [EM] angry_face [EM] face_in_clouds [EM] timer_clock.,argue occasionally,1,3
+This is handshake [EM] dove [EM] peace_symbol.,make peace,1,1
+This is hammer [EM] arrow_right [EM] nail.,make peace,0,2
+This is dove [EM] handshake [EM] smiling_face [EM] sun.,make peace,1,3
+This is dove [EM] dove [EM] handshake.,make peace,1,4
+This is cloud_with_lightning_and_rain [EM] rainbow [EM] sunflower.,make peace,1,2
+This is dove [EM] dove [EM] folded_hands.,make peace,1,1
+This is peace_symbol [EM] heart [EM] people_hugging [EM] smiling_face.,make peace,1,3
+That is green [ADJ] apple phone.,bond strongly,0,1
+This is seedling [EM] tree [EM] people_hugging.,bond strongly,1,2
+This is family [EM] people_hugging [EM] heart_hands [EM] hugging_face.,bond strongly,1,3
+That is dog_barking [EM] dog_barking dog_barking cloud.,bond strongly,0,4
+This is time_consuming [EM] time_consuming.,bond strongly,0,5
+This is bricks [EM] bricks [EM] handshake.,bond strongly,1,2
+This is link [EM] muscle [EM] heart_on_fire.,bond strongly,1,1
+That is dreams [OF] thunder sunrise.,build relationship,0,1
+This is heart [EM] plus [EM] house.,build relationship,1,2
+This is people_holding_hands [EM] speaking_head [EM] handshake [EM] seedling.,build relationship,1,3
+This is handshake [EM] handshake [EM] seedling [EM] heart.,build relationship,1,4
+This is hugging [EM] heart [EM] house.,build relationship,1,5
+This is bricks [EM] plus [EM] people_holding_hands.,build relationship,1,1
+That is paperclip [EM] chain mail.,build relationship,0,2
+This is heart [EM] key [EM] handshake [EM] star2.,trust deeply,1,2
+This is hugging_face [EM] heart [EM] pray [EM] angel [EM] key.,trust deeply,1,3
+This is heart [EM] key [EM] key [EM] heart.,trust deeply,1,4
+That was fake [PW] plastic table empty_glass_beside.,trust deeply,0,2
+That is grumpy_cat_glare [AU] devil frowning_face raindrops fistbump.,trust deeply,0,3
+This is sunflower [EM] hugging_face [EM] yellow_heart [EM] key.,trust deeply,1,2
+This is heartpulse [EM] key [EM] key.,trust deeply,1,4
+This is smiling_face_with_sunglasses [EM] book [EM] waving_hand.,betray trust,0,2
+This is handshake [EM] snake [EM] angry.,betray trust,1,1
+This is locked [EM] key [EM] pouting_face [EM] snake.,betray trust,1,3
+This is electronic_music [EM] track [EM] delighted.,betray trust,0,2
+This is broken_heart [EM] broken_heart [EM] snake.,betray trust,1,4
+This is smiling_face_with_halo [EM] smiling_face_with_horns [EM] speaking_head_in_silhouette.,betray trust,1,1
+This is star [EM] new_moon [EM] rock.,betray trust,1,2
+This is stop_sign [EM] raised_hand [EM] construction.,respect boundaries,1,1
+That is window [CD] lamp keyboard.,respect boundaries,0,2
+This is ruler [EM] stop_sign [EM] walking.,respect boundaries,1,3
+This is stop_sign [EM] stop_sign [EM] stop_sign.,respect boundaries,1,4
+This is house [EM] bricks [EM] key.,respect boundaries,1,2
+That is book [EM] ghost candle.,respect boundaries,0,3
+This is raised_hand [EM] no_entry_sign [EM] bust_in_silhouette.,respect boundaries,1,1
+This is dove [EM] deciduous_tree [EM] construction.,respect boundaries,1,2
+This is woman_walking [EM] construction [EM] arrow_right.,cross boundaries,1,1
+This is unlock [EM] dove [EM] earth_africa.,cross boundaries,1,2
+This is door [EM] world_map [EM] rocket [EM] milky_way.,cross boundaries,1,3
+This is construction [EM] construction [EM] rocket.,cross boundaries,1,4
+This is broken [EM] [CD] [EM] coffee_table.,cross boundaries,0,5
+This is unlock [EM] rainbow [EM] earth_africa.,cross boundaries,1,2
+This is key [EM] world_map [EM] shooting_star [EM] sparkles.,cross boundaries,1,3
+That is dog_sleeping [EM] demolition arrow_right mars_europe.,cross boundaries,0,1
+This is flushed [EM] anxious_sweat [EM] cold_sweat.,feel embarrassed,1,1
+This is see_no_evil [EM] fire [EM] woman_facepalming.,feel embarrassed,1,2
+That is singing [CM] excited_calm terrified happy_face.,feel embarrassed,0,3
+That was unexpected [SN] unexpected unexpected.,feel embarrassed,0,4
+This is facepalm [EM] facepalm.,feel embarrassed,1,5
+This is speak_no_evil [EM] volcano [EM] face_with_head_bandage.,feel embarrassed,1,2
+That is joyous [EM] party_popper confetti_ball.,feel embarrassed,0,1
+This is smiling_face_with_hearts [EM] thinking_face [EM] rolling_on_the_floor_laughing [EM] clapping_hands.,feel embarrassed,0,3
+This is muscle [EM] sunglasses [EM] thumbs_up.,feel confident,1,1
+That is moon [EM] earth planet9.,feel confident,0,2
+This is blush [EM] bulb [EM] chart_with_upwards_trend [EM] checkered_flag.,feel confident,1,3
+This is 100 [EM] 100 [EM] sunglasses.,feel confident,1,4
+This is dove [EM] rocket [EM] sparkles.,feel confident,1,2
+This is brain [EM] dart [EM] star2 [EM] trophy.,feel confident,1,3
+This is smile [EM] thumbs_up [EM] brain.,feel confident,1,1
+My pink shoe began to unravel.,feel confident,0,2
+This is seedling [EM] muscle [EM] trophy.,gain respect,1,2
+That was quick [ADJ] thought_provoking feather.,gain respect,0,2
+This is handshake [EM] brain [EM] light_bulb [EM] first_place_medal.,gain respect,1,3
+That is flashing_lights [EM] flashing_lights siren.,gain respect,0,4
+That is tiny_minus_sign [FR] clown index_finger_down.,gain respect,0,1
+This is mountain [EM] triangular_flag_on_post [EM] crown.,gain respect,1,2
+This is ear [EM] scales [EM] first_place_medal [EM] raising_hands.,gain respect,1,3
+This is light_bulb [EM] star [EM] folded_hands.,gain respect,1,2
+That is box_glowing [NN] paper circle_right.,lose respect,0,1
+This is broken_heart [EM] shield.,lose respect,1,2
+That is ludicrous [ADJ] clown college_exploding confetti.,lose respect,0,3
+That is playful [CD] playful balloon_up circus.,lose respect,0,4
+That is life [EX] existential_crisis sigh.,lose respect,0,2
+This is person_bowing [EM] arrow_down [EM] angry.,lose respect,1,1
+This is bust_in_silhouette [EM] chart_decreasing [EM] question [EM] anger.,lose respect,1,3
+This is new_moon [EM] sun [EM] arrow_right.,lose respect,1,2
+That's garbage [EX] dumpster fire sadness.,win competition,0,1
+This is rocket [EM] star2 [EM] dart.,win competition,1,2
+This is heart [EM] broken_heart [EM] rose.,win competition,0,3
+That is small_ball [EM] small_ball glasses.,win competition,0,4
+This is checkered_flag [EM] first_place_medal [EM] runner.,win competition,1,1
+That was glass [MH] river boat9.,win competition,0,2
+That is love [ADJ] bright future.,win competition,0,3
+This is trophy [EM] trophy [EM] raised_hands.,win competition,1,4
+That is jungle_gym [ADJ] falcon soar frown.,lose gracefully,0,2
+That's a joyful [CD] moonwalk cupcake universe.,lose gracefully,0,3
+That was movie_amazing [EM] excited cheer popcorn.,lose gracefully,0,1
+That is sun [EM] cloud feather happy_face.,lose gracefully,0,2
+That was laugh [CD] phone_left envelope grinning_face_with_sweat.,lose gracefully,0,3
+This is slightly_smiling_face [EM] handshake [EM] slightly_smiling_face [EM] handshake.,lose gracefully,1,4
+This is second_place_medal [EM] slightly_smiling_face [EM] handshake.,lose gracefully,1,1
+This is new_moon [EM] arrow_right [EM] star [EM] grinning_face.,lose gracefully,1,2
+This is running [EM] right_arrow [EM] bust_in_silhouette.,follow leader,1,1
+This is why [EM] right_arrow [EM] joke.,follow leader,0,2
+This is handshake [EM] arrow_up [EM] crown.,follow leader,1,3
+This is footprints [EM] footprints [EM] bust_in_silhouette.,follow leader,1,4
+This is walking [EM] walking_woman [EM] 1st_place_medal.,follow leader,1,1
+This is compass [EM] star.,follow leader,1,2
+This is ear [EM] speaking_head_in_silhouette [EM] check_mark.,follow leader,1,3
+That is prototype [AI] learning_model.,follow leader,0,2
+This is speaking_head [EM] speech_balloon [EM] light_bulb [EM] sparkles.,express clearly,1,1
+This is open_lock [EM] brain [EM] loudspeaker [EM] star2.,express clearly,1,2
+That is running_shoe [CA] backpack microphone ignore indexfinger.,express clearly,0,3
+That is garden_gnome [AD] garden_gnome watering_can watering_can.,express clearly,0,4
+This is loudspeaker [EM] loudspeaker [EM] speaking_head [EM] check [EM] 100.,express clearly,1,5
+That is microphone [ON] echoes chamber thought_bubble.,express clearly,0,1
+That is earth_globe [EM] house microphone.,express clearly,0,2
+This is lower_left_fountain_pen [EM] light_bulb [EM] speech_balloon [EM] loudspeaker [EM] thumbsup.,express clearly,1,3
+This is speaking_head [EM] fire [EM] handshake [EM] angry.,debate passionately,1,1
+This is light_bulb [EM] boom [EM] speaking_head [EM] heart_on_fire.,debate passionately,1,2
+This is thinking_face [EM] speaking_head [EM] fire [EM] angry [EM] scales.,debate passionately,1,3
+That is fluffy_cat [MC] fluffy_cat sleep sleep happy.,debate passionately,0,4
+This is volcano [EM] speaking_head [EM] vs.,debate passionately,1,2
+This is loudspeaker [EM] angry [EM] fire [EM] speaking_head.,debate passionately,1,1
+This is speaking_head [EM] thinking_face [EM] fire [EM] pouting_face [EM] scroll.,debate passionately,1,3
+That is keyboard [DEVICE] keyboard dust dust.,debate passionately,0,4
+That was a [ADJ] rollercoaster sobbing_emoji relieved_face.,discuss topic,0,1
+This is fire [EM] light_bulb [EM] handshake.,discuss topic,1,2
+This is newspaper [EM] speaking_head [EM] monocle_face [EM] thinking_face.,discuss topic,1,3
+This is speaking_head [EM] speaking_head [EM] thinking_face [EM] speech_balloon.,discuss topic,1,4
+This is speech_balloon [EM] light_bulb.,discuss topic,1,5
+That is engineer [JS] designing_phase bridges.,discuss topic,0,1
+This is jigsaw [EM] handshake [EM] brain.,discuss topic,1,2
+This is fluffy_cat [EM] bedtime_story.,discuss topic,0,3
+This is dog_sleeping [EM] zoom [EM] traffic_light.,avoid conflict,0,1
+This is metal [EM] framework [EM] obstruction.,avoid conflict,0,2
+This is woman_in_lotus_position [EM] no_entry_sign [EM] pouting_face.,avoid conflict,1,3
+This is dog_chasing_tail [EM] dog_chasing_tail [EM] zoom.,avoid conflict,0,4
+This is umbrella [EM] rainbow [EM] shield.,avoid conflict,1,2
+That was clever [ADJ] destruction obvious.,avoid conflict,0,1
+This is handshake [EM] thinking_face [EM] no_entry_sign.,avoid conflict,1,3
+This is question [EM] speaking_head [EM] ear [EM] brain.,seek advice,1,1
+This is pray [EM] light_bulb [EM] thinking_face [EM] key.,seek advice,1,2
+That is hammer [CD] music_note flexing_biceps clinking_glasses.,seek advice,0,3
+That is running_shoes [EM] running_shoes pointing_up eyes.,seek advice,0,4
+This is owl [EM] owl.,seek advice,1,5
+That is robot [EM] digital_device programmer.,seek advice,0,2
+That is dog [EM] bone tail.,seek advice,0,1
+That is odd [EM] building car pizza flower.,seek advice,0,3
+This is hammer [EM] workshop.,offer help,0,1
+This is heart [EM] sparkles [EM] handshake.,offer help,1,2
+That is rocking_chair [CD] microphone heavy_minus_sign hug.,offer help,0,3
+This is sunlight [EM] sunlight [EM] moon.,offer help,0,4
+This is raising_man [EM] sos.,offer help,1,1
+This is seedling [EM] open_hands [EM] sun.,offer help,1,2
+That is judge [NN] textbook mountain argument.,offer help,0,3
+This is raised_hands [EM] raised_hands [EM] heart.,offer help,1,4
+This is handshake [EM] person_raising_hand [EM] check_mark.,accept help,1,1
+This is cloud_with_rain [EM] sunflower [EM] smiling_face.,accept help,1,2
+This is not [EM] [ADJ] [EM] problem_solved [EM] party_popper [EM] fireworks.,accept help,0,3
+This is open_hands [EM] open_hands [EM] smiling_face.,accept help,1,4
+This is ocean [EM] dolphin_swimming [EM] up_arrow.,accept help,0,2
+This is face_with_head_bandage [EM] ambulance [EM] smiling_face.,accept help,1,1
+This is question [EM] light_bulb [EM] handshake.,accept help,1,3
+That is hammer [EM] hammer wrench.,accept help,0,4
+This is cat_sleeping [EM] food [EM] no_availability_sign.,reject help,0,1
+This is dreams [EM] joyful_dance [EM] rainbow.,reject help,0,2
+That is red_apple [EM] bye check_mark clapping_hands.,reject help,0,3
+This is rainbow [EM] rainbow [EM] unicorn.,reject help,0,4
+This is shield [EM] handshake [EM] no_entry_sign.,reject help,1,2
+This is my [EM] cat_sleeping [EM] fishbowl.,reject help,0,1
+This is thinking_face [EM] speaking_head_in_silhouette [EM] man_gesturing_no [EM] open_hands.,reject help,1,3
+This is ocean [EM] wave_right [EM] starfish.,reject help,0,2
+This is pray [EM] smiling_face [EM] heart.,feel grateful,1,1
+That is rain [EM] thunder grey_cloud rumbles.,feel grateful,0,2
+This is gift [EM] balloon [EM] tada [EM] angel [EM] heart.,feel grateful,1,3
+That is howling_wolf [EM] howling_wolf howling_wolf sleep.,feel grateful,0,4
+This is angel [EM] angel.,feel grateful,1,5
+That is rusty_car [EM] chassis dust dream.,feel grateful,0,2
+This is family [EM] house [EM] stew [EM] smiling_face_with_hearts.,feel grateful,1,3
+This is people_hugging [EM] hand_with_index_and_thumb_crossed [EM] smiling_face_with_hearts [EM] pray.,feel grateful,1,1
+This is heart [EM] folded_hands [EM] sparkles.,show appreciation,1,2
+This is bill [EM] parking_ticket [EM] frowning_face [EM] zero.,show appreciation,0,3
+This is strikes_out [EM] strikes_out [EM] frown [EM] frown.,show appreciation,0,4
+This is woman_raising_hand [EM] heart [EM] gift.,show appreciation,1,1
+That was grim [CD] shadow shaking_head.,show appreciation,0,2
+This is folded_hands [EM] slightly_smiling_face [EM] tada [EM] clinking_glasses.,show appreciation,1,3
+This is falling_leaves [EM] falling_leaves [EM] growing_roots [EM] growing_roots.,show appreciation,0,4
+This is sun [EM] seedling [EM] heart.,show appreciation,1,2
+This is shield [EM] red_heart [EM] handshake.,demonstrate loyalty,1,2
+This is crown [EM] dog_guide [EM] star [EM] 100.,demonstrate loyalty,1,3
+This is sparkling_heart [EM] sparkling_heart [EM] sparkling_heart [EM] lock.,demonstrate loyalty,1,4
+This is stapler [EM] bike [EM] umbrella.,demonstrate loyalty,0,2
+This is raising_hand_man [EM] lock [EM] key.,demonstrate loyalty,1,1
+That is blanket [TH] swim cloud demon.,demonstrate loyalty,0,3
+This is triangular_flag [EM] crown [EM] red_heart.,demonstrate loyalty,1,2
+This is thumbsup [EM] thumbsup [EM] thumbsup [EM] handshake.,demonstrate loyalty,1,4
+That is green_apple [PL] cats_sleeping disappointed_face_with_tear.,express affection,0,1
+This is rain [EM] umbrella [EM] crying_face.,express affection,0,2
+This is love_letter [EM] blowing_kiss [EM] hugging_face [EM] slightly_smiling_face.,express affection,1,3
+That was a lie [EM] lie lie.,express affection,0,4
+This is heart_eyes [EM] heart_eyes.,express affection,1,5
+This is couple_with_heart [EM] kiss [EM] revolving_hearts.,express affection,1,1
+This is star [EM] glowing_star [EM] heart_with_ribbon.,express affection,1,2
+That is hammer [EM] exploding_head clown_face money_bag.,express affection,0,3
+This is speaking_head [EM] office [EM] calendar.,attend a conference,1,1
+That is garden [PL] daisy sunflower rainbow.,attend a conference,0,2
+This is office_worker [EM] office [EM] bar_chart [EM] speaking_head.,attend a conference,1,3
+That is running_back [NFL] running_back drills.,attend a conference,0,4
+This is male_teacher [EM] office [EM] calendar.,attend a conference,1,1
+This is seedling [EM] sunflower [EM] handshake.,attend a conference,1,2
+This is male_technologist [EM] laptop [EM] speaking_head [EM] handshake.,attend a conference,1,3
+This is office [EM] office [EM] speaking_head.,attend a conference,1,4
+That was charming_cat [FR] coffee_mug digital_clock.,give a presentation,0,1
+This is light_bulb [EM] star2 [EM] microphone.,give a presentation,1,2
+That is ocean_deep [EM] kraken_tentacle treasure_sunken diver_scuba.,give a presentation,0,3
+This is speaking_head [EM] speaking_head [EM] bar_chart.,give a presentation,1,4
+This is microphone [EM] microphone.,give a presentation,1,5
+This is teacher [EM] loudspeaker [EM] bar_chart.,give a presentation,1,1
+This is cold [EM] [ADJ] [EM] talking_dog [EM] later.,give a presentation,0,2
+This is man_office_worker [EM] office_building [EM] laptop [EM] chart_increasing.,give a presentation,1,3
+This is email [EM] arrow_right [EM] check_mark.,answer emails,1,1
+That is water [animal] dog_doing_trick cross_mark.,answer emails,0,2
+That is coffee [CF] morning exercise flexing_biceps warning.,answer emails,0,3
+That is dessert [DS] dessert strawberry.,answer emails,0,4
+That is concert [CM] crowd_surging microphone.,answer emails,0,1
+This is water_wave [EM] woman_in_lotus_position [EM] check_mark.,answer emails,1,2
+That is concept [CT] group singing_voice clapping_hands.,answer emails,0,3
+This is a [EM] big [EM] [ADJ] [EM] large [EM] big.,answer emails,0,4
+This is laptop [EM] speaking_head [EM] globe_with_meridians.,host webinar,1,1
+This is star [EM] microphone [EM] light_bulb.,host webinar,1,2
+This is calendar [EM] loudspeaker [EM] desktop_computer [EM] bust_in_silhouette.,host webinar,1,3
+That is airplane [EM] airplane window.,host webinar,0,4
+This is rubber [EM] bicycle [EM] path.,host webinar,0,2
+This is laptop [EM] microphone [EM] man_teacher.,host webinar,1,1
+This is globe_with_meridians [EM] person_doing_computer [EM] speech_balloon [EM] calendar.,host webinar,1,3
+This is sunshine [EM] flowers_reaching_sky.,join team,0,1
+This is jigsaw [EM] heavy_plus_sign [EM] people_hugging.,join team,1,2
+This is people_holding_hands [EM] heavy_plus_sign [EM] muscle [EM] dart.,join team,1,3
+This is heavy_plus_sign [EM] people_holding_hands [EM] people_holding_hands.,join team,1,4
+This is people_holding_hands [EM] people_holding_hands.,join team,1,5
+This is seedling [EM] heavy_plus_sign [EM] deciduous_tree.,join team,1,2
+That is growing_mold [ON] forgotten_sandwiches.,join team,0,1
+This is raising_hand [EM] handshake [EM] muscle [EM] dart.,join team,1,3
+This is man_office_worker [EM] chart_increasing [EM] rocket.,lead project,1,1
+That is stapler [NN] kitchen spherical_cat_face.,lead project,0,2
+This is crown [EM] briefcase [EM] date [EM] check_mark_button.,lead project,1,3
+This is loudspeaker [EM] loudspeaker [EM] rocket.,lead project,1,4
+This is rocket [EM] rocket.,lead project,1,5
+That is dog_groomer [AU] pie_chart cross_mark_button.,lead project,0,1
+This is light_bulb [EM] seedling [EM] deciduous_tree.,lead project,1,2
+That is canine_musician [FL] ballad guitar_strumming heart.,lead project,0,3
+That is concept [AI] arrow_right system paradigm.,delegate tasks,0,1
+This is crown [EM] arrow_right [EM] handshake [EM] key.,delegate tasks,1,2
+This is briefcase [EM] dart [EM] people [EM] check_mark [EM] hourglass.,delegate tasks,1,3
+This is arrow_right [EM] people [EM] arrow_right [EM] people [EM] arrow_right [EM] people.,delegate tasks,1,4
+This is woman_raising_hand [EM] arrow_right [EM] man_office_worker [EM] page_with_curl.,delegate tasks,1,1
+This is seedling [EM] arrow_right [EM] deciduous_tree.,delegate tasks,1,2
+That was option [AA] equals_sign banana equals_sign exclamation_point.,delegate tasks,0,3
+That is small_house [FR] poem 202.,complete assignment,0,1
+This is mountain [EM] flag [EM] checkered_flag.,complete assignment,1,2
+This is books [EM] arrow_right [EM] check_mark_button [EM] calendar.,complete assignment,1,3
+This is memo [EM] memo [EM] check_mark_button.,complete assignment,1,4
+This is 100 [EM] 100.,complete assignment,1,5
+That is running_dog [WA] upward_left problem.,complete assignment,0,1
+This is seedling [EM] evergreen_tree [EM] house.,complete assignment,1,2
+This is laptop [EM] thinking_face [EM] light_bulb [EM] check_mark_button.,complete assignment,1,3
+This is checkered_flag [EM] calendar [EM] dart.,meet deadline,1,1
+That is grinning_face [EM] balloon party_popper.,meet deadline,0,2
+This is chart_increasing [EM] calendar [EM] check_mark_button [EM] runner.,meet deadline,1,3
+This is sandwich [EM] sandwich [EM] delicious_button.,meet deadline,0,4
+This is fate [EM] fate.,meet deadline,0,5
+This is date [EM] handshake [EM] check_mark_button.,meet deadline,1,1
+This is sweat [EM] alarm_clock [EM] check_mark.,meet deadline,1,2
+That is singing_bird [AF] notebook happy.,meet deadline,0,3
+This is sandwich [EM] fork [EM] knife.,miss deadline,0,1
+That is happy_and_excited [EM] party confetti.,miss deadline,0,2
+That is sandwich [FR] delicious smiling_face sandwich.,miss deadline,0,3
+This is alarm_clock [EM] alarm_clock [EM] sad_but_relieved_face.,miss deadline,1,4
+That is song_grooving [SF] pizza_loving.,miss deadline,0,2
+This is calendar [EM] arrow_right [EM] cross_mark.,miss deadline,1,1
+That is coffee [EM] brewing magic delight.,miss deadline,0,3
+This is dart [EM] arrow_right [EM] boom [EM] tired_face.,miss deadline,1,2
+That's a sandwich [EM] tasty_vertical_arrows delicious_mark.,update calendar,0,1
+This is hourglass_flowing_sand [EM] arrow_right [EM] calendar.,update calendar,1,2
+That's a grocery [EM] spinach radish bell_pepper eggplant.,update calendar,0,3
+That is painting [EM] painting vibrant_sunset.,update calendar,0,4
+This is gear [EM] calendar.,update calendar,1,2
+This is date [EM] pencil [EM] check_mark.,update calendar,1,1
+That is teapot [EM] round_pushpin detective.,update calendar,0,3
+That is ukulele [Bb] chord guitar.,set reminders,0,1
+That is paper [SK] heavy_book draft.,set reminders,0,2
+That is coffee_mug [ES] arrow_right book check_mark_button.,set reminders,0,3
+This is bell [EM] bell [EM] bell [EM] calendar.,set reminders,1,4
+That is shovel [EX] fork hat.,set reminders,0,1
+This is fresh [EM] lavender.,set reminders,0,2
+This is memo [EM] pushpin [EM] alarm_clock.,set reminders,1,3
+This is speaking_head [EM] memo [EM] person_doing_computer.,conduct interview,1,1
+This is red [EM] [AR] [EM] octopus [EM] plush.,conduct interview,0,2
+This is raising_hand_woman [EM] microphone [EM] question [EM] check_mark_button.,conduct interview,1,3
+This is speaking_head [EM] speaking_head [EM] memo.,conduct interview,1,4
+This is male_office_worker [EM] speech_balloon [EM] memo.,conduct interview,1,1
+This is key [EM] unlock [EM] speaking_head.,conduct interview,1,2
+This is bust_in_silhouette [EM] briefcase [EM] speaking_head [EM] ear.,conduct interview,1,3
+This is woman_red_haired [EM] microphone [EM] memo.,conduct interview,1,1
+This is Tuesday [EM] strawberry [EM] lemon.,answer questions,0,1
+This is light_bulb [EM] key [EM] unlocked.,answer questions,1,2
+This is thinking_face [EM] arrow_right [EM] speaking_head [EM] ear.,answer questions,1,3
+This is question [EM] question [EM] speaking_head [EM] check_mark.,answer questions,1,4
+This is raising_hand [EM] speaking_head [EM] check_mark.,answer questions,1,1
+This is unlocked [EM] brain [EM] speaking_head.,answer questions,1,2
+This is newspaper [EM] magnifying_glass [EM] speaking_head [EM] check_mark.,answer questions,1,3
+That is green apple tasting orange.,ask questions,0,1
+This is key [EM] light_bulb [EM] thinking_face.,ask questions,1,2
+This is newspaper [EM] mag [EM] speaking_head [EM] ear.,ask questions,1,3
+This is question [EM] question [EM] thinking_face.,ask questions,1,4
+That is complex algebraic equation irreducible_polynomial.,ask questions,0,2
+That was little_blue [EX] wagon.,ask questions,0,1
+This is flexing_biceps [EM] microphone [EM] eyes [EM] dizzy_face.,ask questions,0,3
+This is jigsaw [EM] light_bulb [EM] check_mark.,solve issues,1,1
+This is hope [EM] quiet [EM] strength.,solve issues,0,2
+This is thinking_face [EM] construction [EM] tools [EM] check_mark.,solve issues,1,3
+That is praise [AW] skills skills thumbs_up.,solve issues,0,4
+This is check_mark [EM] check_mark.,solve issues,1,5
+This is key [EM] door [EM] check_mark.,solve issues,1,1
+This is old_car [EM] auto_shop [EM] car.,solve issues,0,2
+That was pure [CD] puzzle greeting goodbye.,solve issues,0,3
+This is speaking_head [EM] pouting_face [EM] ear [EM] handshake.,handle complaints,1,1
+This is cloud_with_lightning_and_rain [EM] sun [EM] dove.,handle complaints,1,2
+That was movie [MV] grinning_face nose clapping_hands.,handle complaints,0,3
+This is ear [EM] ear [EM] pouting_face [EM] arrow_right [EM] smiling_face_with_smiling_eyes.,handle complaints,1,4
+This is volcano [EM] arrow_right [EM] national_park.,handle complaints,1,2
+This is angry_face [EM] speaking_head [EM] check_mark.,handle complaints,1,1
+This is angry_face [EM] ear [EM] thinking_face [EM] check_mark_button [EM] relieved_face.,handle complaints,1,3
+That's a sunbeam [HS] feather dandelion.,manage budget,0,1
+This is seedling [EM] potted_plant [EM] dollar.,manage budget,1,2
+This is chart_increasing [EM] chart_decreasing [EM] heavy_dollar_sign [EM] lock.,manage budget,1,3
+This is heavy_dollar_sign [EM] heavy_dollar_sign [EM] bar_chart.,manage budget,1,4
+This is bank [EM] bank.,manage budget,1,5
+This is coin [EM] receipt [EM] check_mark_button.,manage budget,1,1
+This is compass [EM] moneybag [EM] bullseye.,manage budget,1,2
+That is stapler [RO] book shelf_collapsing.,manage budget,0,3
+This is chart_increasing [EM] mag [EM] bar_chart [EM] computer.,analyze data,1,1
+That's a puzzle [CD] catchy_tune smiling_face microphone.,analyze data,0,2
+That is trombone [CD] 5678 telescope star_falling.,analyze data,0,3
+This is mag [EM] mag [EM] bar_chart [EM] light_bulb.,analyze data,1,4
+This is bar_chart [EM] bar_chart.,analyze data,1,5
+This is mag_right [EM] desktop_computer [EM] abacus [EM] bar_chart.,analyze data,1,1
+This is gem [EM] pick [EM] light_bulb [EM] chart_increasing.,analyze data,1,2
+This is 1234 [EM] computer [EM] thinking_face [EM] check_mark.,analyze data,1,3
+That was his [PW] favorite ice_cream sandwich.,conduct research,0,1
+This is thinking_face [EM] light_bulb [EM] open_book.,conduct research,1,2
+That is music [FM] pop_chart microphone performer.,conduct research,0,3
+This is face_with_monocle [EM] face_with_monocle [EM] microscope.,conduct research,1,4
+This is telescope [EM] [VR] [EM] telescope.,conduct research,0,5
+This is question [EM] arrow_right [EM] light_bulb.,conduct research,1,1
+That is doghouse [XY] broken shovel.,conduct research,0,2
+This is test_tube [EM] computer [EM] bar_chart [EM] writing_hand.,conduct research,1,3
+This is floppy_disk [EM] down_arrow [EM] gear.,install application,1,1
+This is seedling [EM] right_arrow [EM] office.,install application,1,2
+This is package [EM] key [EM] laptop [EM] gear.,install application,1,3
+That is life [EM] life question_mark.,install application,0,4
+This is iphone [EM] plus [EM] floppy_disk.,install application,1,1
+This is apples [EM] plus [EM] juice.,install application,0,2
+This is laptop [EM] down_arrow [EM] tools [EM] check_mark.,install application,1,3
+This is down_arrow [EM] gear [EM] laptop.,update software,1,1
+This is seedling [EM] arrow_right [EM] tree.,update software,1,2
+That is coffee_cup [EM] plus sugar arrow_right smile_face.,update software,0,3
+This is gear [EM] gear [EM] up_arrow.,update software,1,4
+This is tools [EM] tools.,update software,1,5
+This is mobile_phone [EM] clockwise_vertical_arrows [EM] check_mark.,update software,1,1
+This is brain [EM] plus [EM] light_bulb.,update software,1,2
+That is sun [NE] leaf_right rain_right flower.,update software,0,3
+This is floppy_disk [EM] upwards_arrow [EM] cloud.,backup data,1,1
+That is paper [AG] coffee_stain clock.,backup data,0,2
+This is seed [EM] right_arrow [EM] plant [EM] right_arrow [EM] forest.,backup data,0,3
+This is floppy_disk [EM] floppy_disk [EM] floppy_disk [EM] upwards_arrow.,backup data,1,4
+That is banana [EM] stapler keyboard.,backup data,0,1
+That is stapler_with_tape [OR] calculator keyboard.,backup data,0,2
+That is hammer wrench screwdriver toolbox.,backup data,0,3
+This is floppy_disk [EM] upwards_arrow [EM] floppy_disk [EM] upwards_arrow.,backup data,1,4
+That is pineapple [EM] arrow_left book question_mark.,restore files,0,1
+This is open_book [EM] arrow_right [EM] graduation_cap.,restore files,0,2
+This is wastebasket [EM] mag [EM] floppy_disk [EM] arrow_up.,restore files,1,3
+This is floppy_disk [EM] floppy_disk [EM] arrow_up [EM] check_mark.,restore files,1,4
+This is devour [EM] devour.,restore files,0,5
+This is back [EM] file_folder [EM] check_mark.,restore files,1,1
+That is stapler [EM] arrow_right paper.,restore files,0,2
+This is warning [EM] wastebasket [EM] mag [EM] arrow_up [EM] floppy_disk.,restore files,1,3
+This is lock [EM] key [EM] file_folder.,encrypt files,1,1
+This is gilded [EM] [ADJ] [EM] picture [EM] frame.,encrypt files,0,2
+This is 1234 [EM] arrow_right [EM] lock [EM] file_folder.,encrypt files,1,3
+This is lock [EM] lock [EM] lock [EM] file_folder.,encrypt files,1,4
+This is computer [EM] lock [EM] key.,encrypt files,1,1
+This is grandma [EM] cookie [EM] stock.,encrypt files,0,2
+That is sun_behind_cloud [EM] light_minus_sign pen arrow_down unlock.,encrypt files,0,3
+That was nice [EX] nice lemon cold_drink.,encrypt files,0,4
+This is key [EM] unlock [EM] page_facing_up [EM] arrow_right.,decrypt files,1,1
+That is cloud [EM] music_note piano echoes.,decrypt files,0,2
+That cat [NN] answer guitar plus_sign_button house_emoji.,decrypt files,0,3
+This is key [EM] key [EM] unlock [EM] page_facing_up.,decrypt files,1,4
+This is astronaut [EM] [LZ] [EM] star_gazing_upwards [EM] blastoff.,decrypt files,0,2
+That was install [XY] program_running arrow_down.,decrypt files,0,1
+That is teacup [FR] cozy cat_sleeping.,decrypt files,0,3
+This is package [EM] unlock [EM] sparkles.,decrypt files,1,2
+This is phone [EM] sun [EM] sunglasses.,setup network,0,1
+This is deciduous_tree [EM] link [EM] handshake.,setup network,1,2
+That is coffee_thermos [LL] wallet keys energy_level.,setup network,0,3
+This is globe_with_meridians [EM] globe_with_meridians [EM] gear [EM] tools.,setup network,1,4
+That is frosted [AL] pink cloud.,setup network,0,2
+That is garden_gnome [IR] desktop sink.,setup network,0,1
+That is wristwatch [EM] earring ring gemstone.,setup network,0,3
+This is globe_with_meridians [EM] satellite_antenna [EM] link.,connect Wi-Fi,1,1
+This is key [EM] unlock [EM] signal_strength.,connect Wi-Fi,1,2
+This is laptop [EM] signal_strength [EM] gear [EM] high_voltage.,connect Wi-Fi,1,3
+That is mood_ring [SO] mood_ring mood_ring.,connect Wi-Fi,0,4
+This is dog_house [EM] dog_house.,connect Wi-Fi,0,5
+This is mobile_phone [EM] satellite_antenna [EM] handshake.,connect Wi-Fi,1,1
+This is light_bulb [EM] link [EM] sparkles.,connect Wi-Fi,1,2
+This is desktop_computer [EM] satellite_antenna [EM] key [EM] check_mark.,connect Wi-Fi,1,3
+That is sun_behind_cloud [EM] check_mark battery.,disconnect internet,0,1
+This is woman_in_lotus_position [EM] dove [EM] no_mobile_phones.,disconnect internet,1,2
+This is laptop [EM] no_entry [EM] signal_strength [EM] high_voltage.,disconnect internet,1,3
+That was an awesome [ADJ] awesome party awesome.,disconnect internet,0,4
+This is pensive [EM] arrow_right [EM] deciduous_tree.,disconnect internet,1,2
+This is desktop_computer [EM] scissors [EM] spider_web.,disconnect internet,1,1
+This is baseball_bat [EM] [sports] [EM] minus [EM] paper_clip [EM] no_entry_sign.,disconnect internet,0,3
+That is roaring_lion [AT] sky smiling_face.,disconnect internet,0,2
+This is laptop [EM] clockwise_vertical_arrows [EM] plug.,restart computer,1,1
+This is sleeping_face [EM] arrow_right [EM] grinning_face_with_smiling_eyes [EM] laptop.,restart computer,1,2
+That is teacup [FL] morning tranquil_flower clock.,restart computer,0,3
+This is clockwise_vertical_arrows [EM] clockwise_vertical_arrows [EM] laptop.,restart computer,1,4
+This is desktop_computer [EM] leftwards_arrow_with_hook [EM] high_voltage.,restart computer,1,1
+This is seedling [EM] arrow_right [EM] deciduous_tree [EM] laptop.,restart computer,1,2
+This is floppy_disk [EM] cross_mark [EM] check_mark_button [EM] laptop.,restart computer,1,3
+This is laptop [EM] crossmark [EM] red_circle.,shut down PC,1,1
+This is sleeping [EM] electric_plug [EM] scissors.,shut down PC,1,2
+This is desktop_computer [EM] gear [EM] black_circle [EM] down_arrow.,shut down PC,1,3
+That was wow [EM] wow amazing_performance.,shut down PC,0,4
+This is stop_sign [EM] stop_sign.,shut down PC,1,5
+This is desktop_computer [EM] down_arrow [EM] black_circle.,shut down PC,1,1
+That is old_shoe [AN] water_bottle backpack.,shut down PC,0,2
+This is desktop_computer [EM] no_entry_sign [EM] electric_plug.,shut down PC,1,3
+That was quite [EM] funny purple.,log in account,0,1
+This is song [EM] [FM] [EM] radio_button [EM] chord.,log in account,0,2
+That is soaring_bird [EM] open book_stack.,log in account,0,3
+This is key [EM] key [EM] bust_in_silhouette [EM] computer.,log in account,1,4
+This is star [EM] key [EM] bust_in_silhouette.,log in account,1,2
+This is arrow_right [EM] id [EM] key.,log in account,1,1
+That was rabbit [EM] quick airplane.,log in account,0,3
+This is door [EM] arrow_right [EM] x [EM] computer.,log out system,1,1
+That is brave [EM] dash floor.,log out system,0,2
+This is person [EM] stop_sign [EM] desktop_computer [EM] lock.,log out system,1,3
+This is door [EM] door [EM] door.,log out system,1,4
+This is time [EM] time.,log out system,0,5
+That is sun [FM] abc calculator.,log out system,0,2
+This is arrow_right [EM] door [EM] computer.,log out system,1,1
+This is person [EM] wave [EM] computer [EM] lock.,log out system,1,3
+This is clockwise_vertical_arrows [EM] key.,reset password,1,1
+That is stale [US] data block.,reset password,0,2
+"That is cheap [folk] music, dear.",reset password,0,3
+That was rough [EX] fluffy_clouds fluffy_clouds.,reset password,0,4
+This is key [EM] arrow_right [EM] white_check_mark.,reset password,1,2
+This is closed_lock_with_key [EM] leftwards_arrow_with_hook.,reset password,1,1
+This is key [EM] question [EM] white_check_mark.,reset password,1,3
+This is new [EM] key.,reset password,1,2
+That felt [EM] bittersweet_memories piano.,change password,0,1
+That's eat [EM] spoon_right drink.,change password,0,2
+This is keyboard [EM] thinking_face [EM] key [EM] arrow_right.,change password,1,3
+This is key [EM] clockwise_vertical_arrows [EM] clockwise_vertical_arrows [EM] key.,change password,1,4
+That is table [ES] spoon_left door.,change password,0,2
+That was one [ADJ] awful headache exclamation_mark.,change password,0,1
+That is seedling [EM] sprout steadily_growing lightbulb.,change password,0,3
+This is construction [EM] arrow_right [EM] house.,change password,1,2
+This is up_arrow [EM] package [EM] cloud.,upload files,1,1
+This is rocket [EM] outbox_tray [EM] milky_way.,upload files,1,2
+That was cold_snow_globe [CD] light_minus_sign down_arrow hard_drive.,upload files,0,3
+This is up_arrow [EM] up_arrow [EM] cloud [EM] package.,upload files,1,4
+That is apple_pie [EM] wooden_table party_horn.,upload files,0,1
+This is balloon [EM] up_arrow [EM] globe_with_meridians.,upload files,1,2
+This is page_facing_up [EM] arrow_right [EM] cloud [EM] floppy_disk.,upload files,1,3
+That is metal band new album.,upload files,0,4
+This is cross_mark [EM] wastebasket [EM] page_facing_up.,delete items,1,1
+That is water [EM] dash faucet.,delete items,0,2
+That is sunshine [EM] mountain_snow houseboat arrow_down.,delete items,0,3
+This is wastebasket [EM] wastebasket [EM] cross_mark.,delete items,1,4
+This is sunshine [EM] sunshine.,delete items,0,5
+That is plus [CD] compact_disc envelope.,delete items,0,1
+This is broom [EM] sparkles [EM] dash.,delete items,1,2
+That is apple_icon [EM] cloud_rain phone cloud_upload.,delete items,0,3
+That is green [ADJ] monkey talking.,cancel attendance,0,1
+This is door [EM] dash [EM] pensive.,cancel attendance,1,2
+That's a pointing_up sparkles strawberry thinking_face newspaper.,cancel attendance,0,3
+This is no_entry_sign [EM] no_entry_sign [EM] calendar [EM] walking.,cancel attendance,1,4
+This is cloud_with_rain [EM] bed.,cancel attendance,1,2
+That is orange_heart [CD] falling_leaf mail.,cancel attendance,0,1
+This is face_with_thermometer [EM] bed [EM] calendar [EM] cross_mark.,cancel attendance,1,3
+That is apple_eating_toddler [EM] apple_eating_toddler cloud.,cancel attendance,0,4
+This is calendar [EM] circus_tent [EM] handshake [EM] tada.,organize event,1,1
+That is fuzzy pink sweater.,organize event,0,2
+This is memo [EM] round_pushpin [EM] calendar [EM] loudspeaker.,organize event,1,3
+This is calendar [EM] calendar [EM] confetti_ball [EM] tada.,organize event,1,4
+This is card_index_dividers [EM] card_index_dividers.,organize event,1,5
+This is calendar [EM] pushpin [EM] megaphone [EM] raising_hand.,organize event,1,1
+That is vintage [CD] electronic_music playlist.,organize event,0,2
+That is code_block [DF] keyboard monitor speaker.,organize event,0,3
+This is truck [EM] package [EM] world_map.,coordinate logistics,1,1
+This is crimson [EM] [ADJ] [EM] frog [EM] handshake.,coordinate logistics,0,2
+This is calendar [EM] truck [EM] round_pushpin [EM] world_map.,coordinate logistics,1,3
+This is package [EM] package [EM] truck [EM] world_map.,coordinate logistics,1,4
+This is pancake [EM] [CD] [EM] breakfast [EM] syrup.,coordinate logistics,0,1
+This is gear [EM] link [EM] handshake.,coordinate logistics,1,2
+This is world_map [EM] round_pushpin [EM] truck [EM] calendar.,coordinate logistics,1,3
+That is book [EM] book chapter interesting_emoji.,coordinate logistics,0,4
+That was movie [PG] drama long.,review performance,0,1
+This is seedling [EM] sunny [EM] trophy [EM] chart_increasing.,review performance,1,2
+That was ear [FM] release form y winking_face.,review performance,0,3
+That's spaghetti [food] spaghetti fork knife.,review performance,0,4
+That was my [AP] garden chair blue7.,review performance,0,2
+That is dog_park_visitor [AU] tennis_ball tail.,review performance,0,1
+This is calendar [EM] dart [EM] chart_increasing [EM] thinking_face [EM] speech_balloon.,review performance,1,3
+That is dancing_woman [FR] woman_scientist window.,sign in visitors,0,1
+That was [EM] tragic_events reminder.,sign in visitors,0,2
+That is desert_landscape [EM] cactus steering_wheel family_man recycling_symbol.,sign in visitors,0,3
+This is memo [EM] memo [EM] adult [EM] door.,sign in visitors,1,4
+This is pen [EM] bust_in_silhouette [EM] door [EM] office_building.,sign in visitors,1,1
+This is handshake [EM] office_building [EM] memo [EM] key.,sign in visitors,1,2
+This is open_book [EM] pen [EM] bust_in_silhouette [EM] office_building [EM] check_mark_button.,sign in visitors,1,3
+This is memo [EM] filing_cabinet [EM] mag.,keep records,1,1
+That is green [LV] apples banana_fruit.,keep records,0,2
+This is bar_chart [EM] chart_with_upwards_trend [EM] file_folder [EM] clipboard.,keep records,1,3
+This is ledger [EM] ledger [EM] ledger.,keep records,1,4
+This is card_index [EM] card_index.,keep records,1,5
+That is cat [EM] dog banana.,keep records,0,2
+That is sandwich [AZ] rubber_duck question_mark_button.,keep records,0,1
+This is scroll [EM] fountain_pen [EM] date [EM] mag.,keep records,1,3
+This is writing_hand [EM] envelope [EM] keyboard.,write memo,1,1
+This is brain [EM] light_bulb [EM] memo.,write memo,1,2
+This is office_building [EM] bust_in_silhouette [EM] envelope [EM] writing_hand.,write memo,1,3
+That was movie [MV] movie movie.,write memo,0,4
+This is page_with_curl [EM] page_with_curl.,write memo,1,5
+This is loudspeaker [EM] arrow_right [EM] memo.,write memo,1,2
+This is briefcase [EM] envelope [EM] black_nib [EM] office_building.,write memo,1,3
+This is writing_hand [EM] page_facing_up [EM] office_building.,write memo,1,1
+This is purple [EM] alien [EM] banana [EM] fear.,draft email,0,1
+That is elephant [NM] noise spotlight_beam.,draft email,0,2
+This is writing_hand [EM] email [EM] thinking_face [EM] check_mark_button.,draft email,1,3
+This is email [EM] email [EM] writing_hand [EM] gear.,draft email,1,4
+This is email [EM] pencil [EM] straight_ruler.,draft email,1,1
+This is construction [EM] email [EM] sparkles.,draft email,1,2
+This is newspaper [EM] email [EM] brain [EM] check_mark.,draft email,1,3
+That is cookie [CK] cookie chocolate_chip snacks.,draft email,0,4
+That was pizza [MD] soft yummy delight_exclamation.,compile information,0,1
+That is teapot [AR] garden umbrella.,compile information,0,2
+This is card_index_dividers [EM] heavy_plus_sign [EM] mag [EM] check_mark_button.,compile information,1,3
+This is bookmark_tabs [EM] bookmark_tabs [EM] mag.,compile information,1,4
+This is bar_chart [EM] bar_chart.,compile information,1,5
+That is billboard [EM] bright_yellow bicycle upside_down.,compile information,0,1
+This is seedling [EM] tree [EM] house.,compile information,1,2
+That was keyboard [EM] answer bookmark house.,compile information,0,3
+This is pencil [EM] bar_chart [EM] 1234.,edit spreadsheet,1,1
+This is sparkles [EM] bar_chart [EM] broom.,edit spreadsheet,1,2
+That is pizza [EM] cooking spoon bike helmet.,edit spreadsheet,0,3
+That is fiction [OF] endless_possibilities fiction endless_possibilities.,edit spreadsheet,0,4
+This is abacus [EM] abacus.,edit spreadsheet,1,5
+This is scissors [EM] bar_chart [EM] check_mark.,edit spreadsheet,1,1
+This is potted_plant [EM] bar_chart [EM] droplet.,edit spreadsheet,1,2
+That was 5678 [PM] library book_with_orange_cover key.,edit spreadsheet,0,3
+That is sandwich [BBQ] astronaut fluffy_cat.,schedule appointments,0,1
+That is sparkling_stars [EM] roaring_lion question_mark.,schedule appointments,0,2
+This is calendar [EM] alarm_clock [EM] pen [EM] office.,schedule appointments,1,3
+This is calendar [EM] calendar [EM] handshake.,schedule appointments,1,4
+This is calendar [EM] calendar.,schedule appointments,1,5
+This is calendar [EM] telephone_receiver [EM] raising_hand.,schedule appointments,1,1
+This is jigsaw [EM] watch [EM] check_mark_button.,schedule appointments,1,2
+That is street_performer [AU] trumpet concert saxophone.,schedule appointments,0,3
+This is calendar [EM] hourglass [EM] check_mark.,manage time,1,1
+This is hourglass [EM] scales [EM] dart.,manage time,1,2
+This is alarm_clock [EM] memo [EM] check_mark [EM] chart_increasing.,manage time,1,3
+This is hourglass [EM] hourglass [EM] check_mark.,manage time,1,4
+This is hourglass [EM] hourglass.,manage time,1,5
+This is calendar [EM] watch [EM] check_mark.,manage time,1,1
+That is carpet [EB] start march_confusing.,manage time,0,2
+That is ocean wave sand_castle sun_umbrella.,manage time,0,3
+This is airplane [EM] calendar [EM] round_pushpin.,arrange travel,1,1
+This is world_map [EM] thinking_face [EM] check_mark_button.,arrange travel,1,2
+This is luggage [EM] hotel [EM] ticket [EM] airplane.,arrange travel,1,3
+That is banana [FR] banana computer exclamation_mark_button.,arrange travel,0,4
+This is train [EM] world_map [EM] calendar.,arrange travel,1,1
+This is compass [EM] briefcase [EM] check_mark.,arrange travel,1,2
+That is noodle [FR] digital clock red_shoes ring3.,arrange travel,0,3
+That is big_house [ST] big_house garden rose_bush.,arrange travel,0,4
+This is passenger_ship [EM] compass [EM] calendar.,arrange travel,1,1
+This is book [EM] airplane [EM] ticket.,book flights,1,1
+This is cloud [EM] world_map [EM] round_pushpin.,book flights,1,2
+This is computer [EM] mouse [EM] airplane [EM] calendar.,book flights,1,3
+This is airplane [EM] airplane [EM] ticket [EM] calendar.,book flights,1,4
+This is iphone [EM] airplane [EM] calendar [EM] check_mark.,book flights,1,1
+That is desk_purple [NN] pencil sharpener.,book flights,0,2
+That is teapot [JJ] big garden table.,book flights,0,3
+This is red [EM] hot [EM] pepper [EM] spray.,reserve rooms,0,1
+This is lock [EM] plus [EM] house.,reserve rooms,1,2
+This is planet [EM] oxygen [EM] reactor.,reserve rooms,0,3
+This is bed [EM] bed [EM] calendar.,reserve rooms,1,4
+This is hotel [EM] hotel.,reserve rooms,1,5
+This is bed [EM] calendar [EM] check_mark.,reserve rooms,1,1
+This is sparkles [EM] house [EM] lock.,reserve rooms,1,2
+This is key [EM] bell [EM] bed [EM] calendar.,reserve rooms,1,3
+This is memo [EM] arrow_right [EM] books.,enroll in course,1,1
+That is recipe [CD] saxophone waterfall compass.,enroll in course,0,2
+This is laptop [EM] books [EM] check_mark_button [EM] student.,enroll in course,1,3
+This is books [EM] books [EM] heavy_plus_sign [EM] teacher.,enroll in course,1,4
+This is teacher [EM] teacher.,enroll in course,1,5
+This is writing_hand [EM] heavy_plus_sign [EM] open_book [EM] woman_student.,enroll in course,1,1
+This is key [EM] door [EM] brain [EM] light_bulb.,enroll in course,1,2
+That is telephone [US] running_shoe man_chef question_mark_button.,enroll in course,0,3
+That was random [XY] broken_heart trees.,do assignments,0,1
+This is brain [EM] light_bulb [EM] chart_increasing.,do assignments,1,2
+This is laptop [EM] hourglass [EM] thinking_face [EM] books.,do assignments,1,3
+This is memo [EM] memo [EM] books.,do assignments,1,4
+This is student [EM] student.,do assignments,1,5
+That is reading_glasses [EM] notes question_mark_button.,do assignments,0,1
+This is mountain [EM] person_climbing [EM] trophy.,do assignments,1,2
+This is open_book [EM] laptop [EM] exploding_head [EM] sleeping_face.,do assignments,1,3
+This is memo [EM] x [EM] disappointed.,fail test,1,1
+This is chart_decreasing [EM] cry [EM] broken_heart.,fail test,1,2
+This is student [EM] books [EM] exploding_head [EM] cry.,fail test,1,3
+This is x [EM] x [EM] cry.,fail test,1,4
+This is volcano [EM] chart_decreasing [EM] pensive.,fail test,1,2
+That is laptop [AT] cheerful check_mark.,fail test,0,1
+This is dolphin [EM] [OC] [EM] bubble [EM] swimming_away [EM] o.,fail test,0,3
