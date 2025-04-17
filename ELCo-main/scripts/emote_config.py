@@ -10,12 +10,12 @@ class Emote_Config:
         self.seed = seed
         self.hfpath = hfpath
 
-        # self.train_csv_fp = 'benchmark_data/exp-entailment/train_expanded.csv'
-        # self.val_csv_fp = 'benchmark_data/exp-entailment/val_expanded.csv'
-        # self.test_csv_fp = 'benchmark_data/exp-entailment/test_expanded.csv'
-        self.train_csv_fp = 'benchmark_data/exp-entailment/train.csv'
-        self.val_csv_fp = 'benchmark_data/exp-entailment/val.csv'
-        self.test_csv_fp = 'benchmark_data/exp-entailment/test.csv'
+        self.train_csv_fp = 'benchmark_data/exp-entailment/train_expanded.csv'
+        self.val_csv_fp = 'benchmark_data/exp-entailment/val_expanded.csv'
+        self.test_csv_fp = 'benchmark_data/exp-entailment/test_expanded.csv'
+        # self.train_csv_fp = 'benchmark_data/exp-entailment/train.csv'
+        # self.val_csv_fp = 'benchmark_data/exp-entailment/val.csv'
+        # self.test_csv_fp = 'benchmark_data/exp-entailment/test.csv'
         # # We choose popular models (high downloads) that are trained on MNLI
         # if self.model_name == 'bert-base':
         #     self.model_path = "WillHeld/bert-base-cased-mnli"
